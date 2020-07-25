@@ -1,7 +1,7 @@
 pipeline_name: refgenieserver_archive
 pipeline_type: sample
 command_template: >
-  refgenieserver archive {sample.genome}/{sample.asset} --config $REFGENIE --dbg 
+  refgenieserver archive --dbg {sample.genome}/{sample.asset} --config $REFGENIE 
 compute:
   bulker_crate: databio/refgenie:0.7.6
   mem: 6000

@@ -31,10 +31,13 @@ genomes:
               fai: Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13.fa.fai
               chrom_sizes: Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13.chrom.sizes
             asset_parents: []
+            archive_digest: 1a68a02a750f951fa380a374e6336d3c
+            archive_size: 16.0MB
+            asset_size: 53.9MB
+            asset_children: []
         default_tag: default
     genome_description: write description here
     genome_digest: d91ca3246d1581e304e36f03fb3249080af40bacd0ece16a
 remote_url_base: http://awspds.refgenie.databio.org/
 genome_archive_folder: $GENOMES/archive
 genome_archive_config: refgenie_config_archive.yaml
-
