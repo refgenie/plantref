@@ -15,6 +15,10 @@ genomes:
               fai: Aureococcus_anophagefferens_JGI_1_0_.fa.fai
               chrom_sizes: Aureococcus_anophagefferens_JGI_1_0_.chrom.sizes
             asset_parents: []
+            archive_digest: 2028848aaa459af434181d4b760bd23f
+            archive_size: 14.3MB
+            asset_size: 54.9MB
+            asset_children: []
         default_tag: default
     genome_description: write description here
     genome_digest: 0b93f16dce0c952e55d7f94bc64f2b3e662f68007e4baf3b
@@ -31,8 +35,8 @@ genomes:
               fai: Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13.fa.fai
               chrom_sizes: Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13.chrom.sizes
             asset_parents: []
-            archive_digest: 1a68a02a750f951fa380a374e6336d3c
-            archive_size: 16.0MB
+            archive_digest: e875e6386fc3aba4ec2547cf1365e353
+            archive_size: 16.1MB
             asset_size: 53.9MB
             asset_children: []
         default_tag: default
