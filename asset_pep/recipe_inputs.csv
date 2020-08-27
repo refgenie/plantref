@@ -1,6 +1,6 @@
 sample_name,input_id,input_value,input_type,md5
 Aureococcus_anophagefferens_JGI_1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/aan.fasta.gz,files,54728f9cdb490b78987b470bb5ee1d9b
-Asterochloris_sp__Cgr/DA1pho_v2_0_JGI_7_45_13-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/acg.fasta.gz,files,599ca9ea56e4cd969cbebb4002a12e8d
+Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/acg.fasta.gz,files,599ca9ea56e4cd969cbebb4002a12e8d
 Actinidia_chinensis__FEI_Lab_v1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/ach.con.gz,files,94bc40c7af4d6a5f53134a2316226a58
 Ananas_comosus_JGI_v3_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_monocots_04_5/Genomes/aco.fasta.gz,files,5ce22ac6f93eb496e7beaabfbf5c18eb
 Arachis_ipaensis__Peanut_Base_v1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/aip.con.gz,files,24fc5101f8840e0253d5a1e5f10b699f
