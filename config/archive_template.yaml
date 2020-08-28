@@ -1,4 +1,4 @@
-config_version: 0.3
+config_version: 0.4
 genome_folder: $GENOMES
 genome_archive_folder: $GENOMES/archive
 genome_archive_config: refgenie_config_archive.yaml
