@@ -7,6 +7,7 @@ parser = ArgumentParser(description="Refgenie build params")
 
 parser.add_argument("-s", "--size", help="size", required=False)
 parser.add_argument("-a", "--asset", type=str, help="asset", required=True)
+parser.add_argument("-g", "--genome", type=str, help="genome", required=True)
 
 args = parser.parse_args()
 
@@ -25,9 +26,12 @@ slow_assets = ["bismark_bt2_index", "bismark_bt1_index", "salmon_partial_sa_inde
 
 
 if args.asset in fast_assets:
-    params['time'] = "00:30:00"
+    params['time'] = "01:00:00"
     params['partition'] = "standard"
     params['mem'] = "6000"
+    if args.genome == "Picea_abies__ConGenIE_v1_0":
+        params['time'] = "08:00:00"
+        params['mem'] = "24000"
 
 if args.asset in slow_assets:
     params['time'] = "8:00:00"
