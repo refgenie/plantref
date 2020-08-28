@@ -19,6 +19,10 @@ genomes:
               fai: bed9a56007cab79a914a435cfaedbfd3c1a6890bad3eab99.fa.fai
               chrom_sizes: bed9a56007cab79a914a435cfaedbfd3c1a6890bad3eab99.chrom.sizes
             asset_parents: []
+            archive_digest: ebf4e590e3dd8008d07d1a1a663165a8
+            archive_size: 52.6MB
+            asset_size: 199.6MB
+            asset_children: []
         default_tag: default
     genome_description: Arabidopsis lyrata JGI v1.0
   8896c6055e807561a37a5a7b95ff6b1eebaff8ff87a1a8ba:
@@ -35,6 +39,10 @@ genomes:
               fai: 8896c6055e807561a37a5a7b95ff6b1eebaff8ff87a1a8ba.fa.fai
               chrom_sizes: 8896c6055e807561a37a5a7b95ff6b1eebaff8ff87a1a8ba.chrom.sizes
             asset_parents: []
+            archive_digest: d1c94617155f3dae1bc6240178479ee0
+            archive_size: 323.9MB
+            asset_size: 1.1GB
+            asset_children: []
         default_tag: default
     genome_description: Asparagus officinalis v1.1
   0b4d487cce53921b38e8d1e2a922076d2e2efb01ce6fdefb:
@@ -51,6 +59,10 @@ genomes:
               fai: 0b4d487cce53921b38e8d1e2a922076d2e2efb01ce6fdefb.fa.fai
               chrom_sizes: 0b4d487cce53921b38e8d1e2a922076d2e2efb01ce6fdefb.chrom.sizes
             asset_parents: []
+            archive_digest: baf26f1074572fc413967da0b60c9ce4
+            archive_size: 356.7MB
+            asset_size: 1.3GB
+            asset_children: []
         default_tag: default
     genome_description: Arachis ipaensis  Peanut Base v1.0
   a04927989a138483fe4e2ab06e12f710f79d95932dac38a3:
@@ -87,6 +99,10 @@ genomes:
               fai: c4b1700fd6eaace3b1ce0625c527c9c3c6efe11719447a24.fa.fai
               chrom_sizes: c4b1700fd6eaace3b1ce0625c527c9c3c6efe11719447a24.chrom.sizes
             asset_parents: []
+            archive_digest: 125fa793d1175d8e690e69d42804a043
+            archive_size: 6.1MB
+            asset_size: 21.4MB
+            asset_children: []
         default_tag: default
     genome_description: Auxenochlorella protothecoides Beijing Genomics Institute 1.0
   3209b8ef20b0c4d9fd60fa066b9a5eea93dd2d75db7c1ef8:
@@ -123,6 +139,10 @@ genomes:
               fai: 5980fd629d5a4b4418e42ba50f756ad0a0b29ea880ed67bf.fa.fai
               chrom_sizes: 5980fd629d5a4b4418e42ba50f756ad0a0b29ea880ed67bf.chrom.sizes
             asset_parents: []
+            archive_digest: 198e1ba92031f073025aabd736f199a1
+            archive_size: 107.8MB
+            asset_size: 369.0MB
+            asset_children: []
         default_tag: default
     genome_description: Ananas comosus JGI v3.0
   338f522651776e82efd3997cc89dd009c1b6c5c9ffba0914:
@@ -139,6 +159,10 @@ genomes:
               fai: 338f522651776e82efd3997cc89dd009c1b6c5c9ffba0914.fa.fai
               chrom_sizes: 338f522651776e82efd3997cc89dd009c1b6c5c9ffba0914.chrom.sizes
             asset_parents: []
+            archive_digest: 57809ed14a6ab1e9945d9686376bd31a
+            archive_size: 92.4MB
+            asset_size: 336.9MB
+            asset_children: []
         default_tag: default
     genome_description: Apostasia shenzhenica v1.0
   01139a772b15031670b3517b4b81cb26cc3eeba98b9699ab:
@@ -175,6 +199,10 @@ genomes:
               fai: 9cf5edd81ab9ff66eee0e51eac0e19dcfbb5ee4df014d5e8.fa.fai
               chrom_sizes: 9cf5edd81ab9ff66eee0e51eac0e19dcfbb5ee4df014d5e8.chrom.sizes
             asset_parents: []
+            archive_digest: 2123a958b620f9f9cf557f2c01d741db
+            archive_size: 4.4MB
+            asset_size: 14.6MB
+            asset_children: []
         default_tag: default
     genome_description: Bathycoccus prasinos Ghent University
   9f1c349e07231cd71d5cf2426ebe876578a2f562799c60ac:
@@ -191,6 +219,10 @@ genomes:
               fai: 9f1c349e07231cd71d5cf2426ebe876578a2f562799c60ac.fa.fai
               chrom_sizes: 9f1c349e07231cd71d5cf2426ebe876578a2f562799c60ac.chrom.sizes
             asset_parents: []
+            archive_digest: 00e1f7f2b8c9da1098079a42fbd49b2a
+            archive_size: 34.3MB
+            asset_size: 115.6MB
+            asset_children: []
         default_tag: default
     genome_description: Arabidopsis thaliana COL-0 Araport11
   0cded27d0804e9054ac0972bd2e0e2ade507e43a663327a6:
@@ -207,6 +239,10 @@ genomes:
               fai: 0cded27d0804e9054ac0972bd2e0e2ade507e43a663327a6.fa.fai
               chrom_sizes: 0cded27d0804e9054ac0972bd2e0e2ade507e43a663327a6.chrom.sizes
             asset_parents: []
+            archive_digest: e27d1a9efc699bb40a69916073fab1fa
+            archive_size: 192.8MB
+            asset_size: 682.6MB
+            asset_children: []
         default_tag: default
     genome_description: Amborella trichopoda  JGI v1.0
   0edb4c903bae208b1aec15e84d98383bf7b06003e67cee8b:
@@ -223,6 +259,10 @@ genomes:
               fai: 0edb4c903bae208b1aec15e84d98383bf7b06003e67cee8b.fa.fai
               chrom_sizes: 0edb4c903bae208b1aec15e84d98383bf7b06003e67cee8b.chrom.sizes
             asset_parents: []
+            archive_digest: 04a9fa0c4d0946653643523ff819c785
+            archive_size: 78.9MB
+            asset_size: 261.8MB
+            asset_children: []
         default_tag: default
     genome_description: Brachypodium distachyon JGI v3.1
   c45cb418aab15833a00b5f9a30cea801ab6245071649cb28:
@@ -239,6 +279,10 @@ genomes:
               fai: c45cb418aab15833a00b5f9a30cea801ab6245071649cb28.fa.fai
               chrom_sizes: c45cb418aab15833a00b5f9a30cea801ab6245071649cb28.chrom.sizes
             asset_parents: []
+            archive_digest: afb98e3a96bfff6d8f429acb2ee70e09
+            archive_size: 83.7MB
+            asset_size: 687.6MB
+            asset_children: []
         default_tag: default
     genome_description: Amborella trichopoda Amborella V1.0
   88907d8dcdbebcae36aee6e3577aec10f0945506bad2dd0a:
@@ -255,6 +299,10 @@ genomes:
               fai: 88907d8dcdbebcae36aee6e3577aec10f0945506bad2dd0a.fa.fai
               chrom_sizes: 88907d8dcdbebcae36aee6e3577aec10f0945506bad2dd0a.chrom.sizes
             asset_parents: []
+            archive_digest: f9a71ff724991e7d02841a2572aab2a4
+            archive_size: 82.3MB
+            asset_size: 682.4MB
+            asset_children: []
         default_tag: default
     genome_description: Amborella trichopoda Amborella v1
   8cf7a4e78273b480e57b9a7f28f2b911b506105d24f05c1b:
@@ -271,6 +319,10 @@ genomes:
               fai: 8cf7a4e78273b480e57b9a7f28f2b911b506105d24f05c1b.fa.fai
               chrom_sizes: 8cf7a4e78273b480e57b9a7f28f2b911b506105d24f05c1b.chrom.sizes
             asset_parents: []
+            archive_digest: 1f662b6db72f0a149b4108a3d496a0d4
+            archive_size: 78.9MB
+            asset_size: 262.7MB
+            asset_children: []
         default_tag: default
     genome_description: Brachypodium distachyon MIPS 1.2
   ecd5f46a558421bf92c9df0b6d792d61ea8689b6ffe72bec:
@@ -287,6 +339,10 @@ genomes:
               fai: ecd5f46a558421bf92c9df0b6d792d61ea8689b6ffe72bec.fa.fai
               chrom_sizes: ecd5f46a558421bf92c9df0b6d792d61ea8689b6ffe72bec.chrom.sizes
             asset_parents: []
+            archive_digest: 5da7cf51e304827bd3b4cd7bc8be35fd
+            archive_size: 34.3MB
+            asset_size: 115.6MB
+            asset_children: []
         default_tag: default
     genome_description: Arabidopsis thaliana COL-0 TAIR10
   a6c0302daffea04330b64089fbc9ff2ae37e1671e6014512:
@@ -303,6 +359,10 @@ genomes:
               fai: a6c0302daffea04330b64089fbc9ff2ae37e1671e6014512.fa.fai
               chrom_sizes: a6c0302daffea04330b64089fbc9ff2ae37e1671e6014512.chrom.sizes
             asset_parents: []
+            archive_digest: a59dc4f0c0a39fff2a3de82344c5e461
+            archive_size: 79.2MB
+            asset_size: 276.9MB
+            asset_children: []
         default_tag: default
     genome_description: Brassica rapa Annotation v1.2 on assembly v1.1 (Phytozome 9.1)
   243de8bc6f991557ce5c60b77e713ce1a8ecc3b4edc4363e:
@@ -319,6 +379,10 @@ genomes:
               fai: 243de8bc6f991557ce5c60b77e713ce1a8ecc3b4edc4363e.fa.fai
               chrom_sizes: 243de8bc6f991557ce5c60b77e713ce1a8ecc3b4edc4363e.chrom.sizes
             asset_parents: []
+            archive_digest: 27758e92522526c0efbb31cb2216ba2c
+            archive_size: 129.0MB
+            asset_size: 473.9MB
+            asset_children: []
         default_tag: default
     genome_description: Brassica oleracea  Ensembl Genomes v2.1
   65ca6fd7be1e6e73e851d6ab5359dbb56949bcd31e23f473:
