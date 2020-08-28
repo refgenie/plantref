@@ -2,7 +2,7 @@ pipeline_name: refgenie
 pipeline_type: sample
 input_schema: refgenie_build.yaml
 compute:
-  dynamic_variables_command_template: pipeline_interfaces/build-compute-params.py -a {sample.asset}
+  dynamic_variables_command_template: pipeline_interfaces/build-compute-params.py -a {sample.asset} -g {sample.genome}
 command_template: >
   refgenie build { sample.genome }/{ sample.asset }
   {% if sample.genome_description is defined %}--genome-description '{ sample.genome_description }'{% endif %}
