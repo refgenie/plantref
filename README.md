@@ -66,18 +66,20 @@ In this guide we'll use environment variables to keep track of where stuff goes.
 ```
 #export BASEDIR=$HOME/code/sandbox/refgenie_deploy
 #export REFGENIE_RAW=$BASEDIR/refgenie_raw
-export BASEDIR=$PROJECT/deploy/refgenomes_primary
+export SERVERNAME=plantref
+export BASEDIR=$PROJECT/deploy/$SERVERNAME
 export GENOMES=$BASEDIR/genomes
-export REFGENIE_RAW=/project/shefflab/www/refgenie_raw
-export REFGENIE=$BASEDIR/refgenomes.databio.org/config/refgenie_config.yaml
+export REFGENIE_RAW=/project/shefflab/www/refgenie_$SERVERNAME
+export REFGENIE=$BASEDIR/$SERVERNAME/config/refgenie_config.yaml
 export REFGENIE_ARCHIVE=$GENOMES/archive
+mkdir $BASEDIR
 cd $BASEDIR
 ```
 
 To start, clone this repository:
 
 ```
-git clone git@github.com:refgenie/refgenomes.databio.org.git
+git clone git@github.com:refgenie/$SERVERNAME.git
 ```
 
 ## Step 1: Download input files
@@ -85,7 +87,7 @@ git clone git@github.com:refgenie/refgenomes.databio.org.git
 Many of the assets require some input files, and we have to make sure we have those files locally. In the `recipe_inputs.csv` file, we have entered these files as remote URLs, so the first step is to download them. We have created a subproject called `getfiles` for this: To programmatically download all the files required by `refgenie build`, run from this directory using [looper](http://looper.databio.org):
 
 ```
-cd refgenomes.databio.org
+cd $SERVERNAME
 mkdir -p $REFGENIE_RAW
 looper run asset_pep/refgenie_build_cfg.yaml -p local --amend getfiles
 ```
@@ -97,33 +99,16 @@ grep checksum ../genomes/submission/*.log
 
 ## Step 2: Build assets
 
-Once files are present locally, we can run `refgenie build` on each asset specified in the sample_table (`assets.csv`). We have to submit fasta assets first:
+Once files are present locally, we can run `refgenie build` on each asset specified in the sample_table (`assets.csv`). If you have not initialized it, then first you must init the config:
+
+```
+refgenie init -c config/refgenie_config.yaml -f $GENOMES -u https://refgenie.s3.amazonaws.com -a $GENOMES/archive -b refgenie_config_archive.yaml
+```
+
+We have to submit fasta assets first:
 
 ```
 looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta
-
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl dbsnp
-
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl gencode_gtf ensembl_gtf ensembl_rb refgene_anno dbnsfp fasta_txome
-
-```
-
-Once the basic assets are built, we can build all the assets that are derived from them.
-
-```
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl suffixerator_index
-
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl feat_annotation
-
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl bowtie2_index bwa_index bismark_bt2_index bismark_bt1_index
-
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl salmon_sa_index salmon_partial_sa_index salmon_index kallisto_index star_index hisat2_index cellranger_reference
-```
-
-Layer 3: tallymer_index depends on suffixerator_index (which depends on fasta)
-
-```
-looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl tallymer_index 
 ```
 
 This will create one job for each *asset*. Monitor job progress with: 
@@ -132,11 +117,15 @@ This will create one job for each *asset*. Monitor job progress with:
 looper check asset_pep/refgenie_build_cfg.yaml  # TODO: this doesn't work because the pipeline doesn't produce flags...
 
 grep CANCELLED ../genomes/submission/*.log
-ll ../genomes/*/*/*/_refgenie_build/*.flag
-ll ../genomes/*/*/*/_refgenie_build/*failed.flag
-ll ../genomes/*/*/*/_refgenie_build/*completed.flag
-ll ../genomes/*/*/*/_refgenie_build/*running.flag
-ll ../genomes/*/*/*/_refgenie_build/*completed.flag | wc -l
+ll ../genomes/submission/*.log
+grep error ../genomes/submission/*.log
+grep maximum ../genomes/submission/*.log
+
+ll ../genomes/data/*/*/*/_refgenie_build/*.flag
+ll ../genomes/data/*/*/*/_refgenie_build/*failed.flag
+ll ../genomes/data/*/*/*/_refgenie_build/*completed.flag
+ll ../genomes/data/*/*/*/_refgenie_build/*running.flag
+ll ../genomes/data/*/*/*/_refgenie_build/*completed.flag | wc -l
 cat ../genomes/submission/*.log
 ```
 
@@ -153,11 +142,6 @@ Assets are built locally now, but to serve them, we must archive them using `ref
 ```
 ba
 looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta
-looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl gencode_gtf ensembl_gtf ensembl_rb refgene_anno dbnsfp fasta_txome
-looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl bowtie2_index bwa_index bismark_bt2_index bismark_bt1_index salmon_sa_index salmon_partial_sa_index salmon_index kallisto_index star_index hisat2_index cellranger_reference feat_annotation
-
-looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl suffixerator_index tallymer_index
-
 
 <!-- looper run asset_pep/refgenieserver_archive_cfg.yaml -p slurm -t 0.1 -c partition=standard -->
 ```

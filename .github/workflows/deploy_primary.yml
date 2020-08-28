@@ -27,6 +27,9 @@ on:
   push:
     paths:
       - config/refgenie_config_archive.yaml
+  workflow_dispatch:
+    inputs: null
+
 
 name: Deploy to Amazon ECS - plant
 
