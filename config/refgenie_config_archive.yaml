@@ -705,8 +705,6 @@ genomes:
             asset_parents: []
         default_tag: default
     genome_description: Carica papaya  JGI ASGPB0.4
-  4591f237dfa34c1b426f6596e2ce5bb5cb92581dc5ea883c:
-    aliases: ['Musa_acuminata_Genescope-Cirad']
   6caf68ac9d45756c70f6ba179dc233ff50ba8633422ab164:
     aliases: ['Chenopodium_quinoa__JGI_v1_0']
     assets:
@@ -1347,8 +1345,6 @@ genomes:
             asset_parents: []
         default_tag: default
     genome_description: Spirodela polyrhiza JGI v2.0
-  0897ba6d2ae4f01e8f43ec03d883ecbfa08c9c60159da6f5:
-    aliases: ['Thalassiosira_pseudonana_JGI_3_0']
   9c4068c3042573d0e54a82aec236f457932e8b385e8a3751:
     aliases: ['Homo_sapiens_ENSEMBL_release_81']
     assets:
@@ -1461,8 +1457,6 @@ genomes:
             asset_parents: []
         default_tag: default
     genome_description: Thellungiella parvula TpV84
-  b31e58d022a690e829e7a17fe4e1e58afd8a0f852e71e9d4:
-    aliases: ['Schrenkiella_parvula__Thellungiella_v2_0_TpV84']
   fc33ddeda3b7b2ee914a946ad1e7803f1a08140d2bdcc2f0:
     aliases: ['Utricularia_gibba__CoGe_v4']
     assets:
@@ -1879,8 +1873,6 @@ genomes:
             asset_parents: []
         default_tag: default
     genome_description: Vitis vinifera  JGI 12xMarch2010
-  79c05606860051c5261df12744ee9dee2063db55a06ccaac:
-    aliases: ['Vitis_vinifera_genescope_v1']
   7940e9f0bcfc349fdd9fc5ef1c22561c9379a91250e2d069:
     aliases: ['Oryza_sativa_ssp__indica_9311_BGF_2005']
     assets:
