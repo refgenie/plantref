@@ -29,8 +29,6 @@ Cicer_arietinum__LIS_v1_0,fasta,Cicer arietinum  LIS v1.0
 Cajanus_cajan__Penguin_Genomics_v5_0,fasta,Cajanus cajan  Penguin Genomics v5.0
 Coffea_canephora__Coffee_Genome_Hub_v1,fasta,Coffea canephora  Coffee Genome Hub v1
 Citrus_clementina__JGI_v1_0,fasta,Citrus clementina  JGI v1.0
-Chondrus_crispus_ENSEMBL_protists__release_28,fasta,Chondrus crispus ENSEMBL protists  release 28
-Caenorhabditis_elegans_ENSEMBL_release_81,fasta,Caenorhabditis elegans ENSEMBL release 81
 Citrullus_lanatus_Cucurbit_Genomics_Database,fasta,Citrullus lanatus Cucurbit Genomics Database
 Citrullus_lanatus__Cucurbit_Genomics_Database_v1_0,fasta,Citrullus lanatus  Cucurbit Genomics Database v1.0
 Cucumis_melo__Melonomics_v3_5,fasta,Cucumis melo  Melonomics v3.5
@@ -49,14 +47,11 @@ Cucumis_sativus_L___JGI_v1_0,fasta,Cucumis sativus L.  JGI v1.0
 Citrus_sinensis_JGI_v1_assembly_and_v1_0_annotation,fasta,Citrus sinensis JGI v1 assembly and v1.0 annotation
 Coccomyxa_subellipsoidea_C-169_JGI_2_0_Phytozome_10_2,fasta,Coccomyxa subellipsoidea C-169 JGI 2.0 (Phytozome 10.2)
 Daucus_carota__JGI_v2_0,fasta,Daucus carota  JGI v2.0
-Dictyostelium_discoideum__ENSEMBL_protist_release_28,fasta,Dictyostelium discoideum  ENSEMBL protist release 28
-Drosophila_melanogaster_ENSEMBL_release_81,fasta,Drosophila melanogaster ENSEMBL release 81
 Eucalyptus_grandis_JGI_assembly_v1_0_annotation_v1_1,fasta,Eucalyptus grandis JGI assembly v1.0- annotation v1.1
 Eucalyptus_grandis__JGI_v2_0,fasta,Eucalyptus grandis  JGI v2.0
 Elaeis_guineensis_NCBI_Genome_v1_0,fasta,Elaeis guineensis NCBI Genome v1.0
 Elaeis_guineensis_EG5_1,fasta,Elaeis guineensis EG5.1
 Erythranthe_guttata__JGI_v2_0,fasta,Erythranthe guttata  JGI v2.0
-Emiliania_huxleyi__ENSEMBL_protist_release_28,fasta,Emiliania huxleyi  ENSEMBL protist release 28
 Ectocarpus_siliculosus_Ghent_University,fasta,Ectocarpus siliculosus Ghent University
 Fragilariopsis_cylindrus_JGI_1_0,fasta,Fragilariopsis cylindrus JGI 1.0
 Fragaria_vesca_Strawberry_Genome_1_0,fasta,Fragaria vesca Strawberry Genome 1.0
@@ -65,9 +60,7 @@ Glycine_max_JGI_Glyma1_1_annotation_of_the_chromosome-based_Glyma1_assembly,fast
 Glycine_max__JGI_Wm82_a2_v1,fasta,Glycine max  JGI Wm82.a2.v1
 Gossypium_raimondii_JGI_annotation_v2_1_on_assembly_v2_0,fasta,Gossypium raimondii JGI annotation v2.1 on assembly v2.0
 Gossypium_raimondii__JGI_v2_1,fasta,Gossypium raimondii  JGI v2.1
-Galdieria_sulphuraria_ENSEMBL_protists__release_28,fasta,Galdieria sulphuraria ENSEMBL protists  release 28
 Hevea_brasiliensis__NCBI_Genomes_v1,fasta,Hevea brasiliensis  NCBI Genomes v1
-Homo_sapiens_ENSEMBL_release_81,fasta,Homo sapiens ENSEMBL release 81
 Helicosporidium_sp___Illinois_University_1_0,fasta,Helicosporidium sp.  Illinois University 1.0
 Hordeum_vulgare_MIPS,fasta,Hordeum vulgare MIPS
 Hordeum_vulgare_Ensembl_Genomes_ASM32608v1,fasta,Hordeum vulgare Ensembl Genomes ASM32608v1
@@ -86,8 +79,6 @@ Micromonas_pusilla_strain_CCMP1545_Ghent_University,fasta,Micromonas pusilla str
 Micromonas_sp_RCC299_JGI_3_0,fasta,Micromonas sp RCC299 JGI 3.0
 Medicago_truncatula_JCVI_4_0,fasta,Medicago truncatula JCVI 4.0
 Medicago_truncatula__JGI_Mt4_0v1,fasta,Medicago truncatula  JGI Mt4.0v1
-Mus_musculus_ENSEMBL_release_81,fasta,Mus musculus ENSEMBL release 81
-Nannochloropsis_gaditana__ENSEMBL_protist_release_28,fasta,Nannochloropsis gaditana  ENSEMBL protist release 28
 Nelumbo_nucifera__LOTUS-DB_v1_1,fasta,Nelumbo nucifera  LOTUS-DB v1.1
 Oryza_brachyantha_Ensembl_Plants_v1_4b,fasta,Oryza brachyantha Ensembl Plants v1.4b
 Ostreococcus_lucimarinus_JGI_v2_0_assembly_and_annotation,fasta,Ostreococcus lucimarinus JGI v2.0 assembly and annotation
@@ -106,7 +97,6 @@ Petunia_axillaris__Sol_Genomics_v1_6_2,fasta,Petunia axillaris  Sol Genomics v1.
 Pyrus_bretschneideri__Pear_Genome_Project_v1_0,fasta,Pyrus bretschneideri  Pear Genome Project v1.0
 Phyllostachys_edulis_NCGR_v1_0,fasta,Phyllostachys edulis NCGR v1.0
 Phalaenopsis_equestris_Genomics_v1_0,fasta,Phalaenopsis equestris Genomics v1.0
-Phytophtora_sojae__ENSEMBL_protist_release_28,fasta,Phytophtora sojae  ENSEMBL protist release 28
 Physcomitrella_patens_JGI_assembly_release_v1_1_and_COSMOSS_annotation_v1_6,fasta,Physcomitrella patens JGI assembly release v1.1 and COSMOSS annotation v1.6
 Physcomitrella_patens__JGI_v3_3,fasta,Physcomitrella patens  JGI v3.3
 Physcomitrella_patens_Phytozome_9_1_v1_6,fasta,Physcomitrella patens Phytozome 9.1 (v1.6)
@@ -114,16 +104,13 @@ Prunus_persica_JGI_release_v1_0,fasta,Prunus persica JGI release v1.0
 Prunus_persica__JGI_v2_1,fasta,Prunus persica  JGI v2.1
 Picochlorum_RCC4223__ORCAE,fasta,Picochlorum_RCC4223  ORCAE
 Picochlorum_sp__SENEW3_SE3_Rutgers_University_1_0,fasta,Picochlorum sp. SENEW3 (SE3) Rutgers University 1.0
-Paramecium_tetraurelia__ENSEMBL_protist_release_28,fasta,Paramecium tetraurelia  ENSEMBL protist release 28
 Populus_trichocarpa_JGI_assembly_release_v3_0_annotation_v3_0,fasta,Populus trichocarpa JGI assembly release v3.0- annotation v3.0
 Populus_trichocarpa__JGI_v3_1,fasta,Populus trichocarpa  JGI v3.1
 Phaeodactylum_tricornutum_ASM15095v2,fasta,Phaeodactylum tricornutum ASM15095v2
 Ricinus_communis_JCVI_1_0,fasta,Ricinus communis JCVI 1.0
 Ricinus_communis__JGI_v0_1,fasta,Ricinus communis  JGI v0.1
-Saccharomyces_cerevisiae_strain_S288C_ENSEMBL_release_81,fasta,Saccharomyces cerevisiae strain S288C ENSEMBL release 81
 Sorghum_bicolor_JGI_1_4,fasta,Sorghum bicolor JGI 1.4
 Sorghum_bicolor_JGI_v3_1,fasta,Sorghum bicolor JGI v3.1
-Schizosaccharomyces_pombe__ENSEMBL_fungi_release_28,fasta,Schizosaccharomyces pombe  ENSEMBL fungi release 28
 Setaria_italica_JGI_8_3X_chromosome-scale_assembly_release_2_0_annotation_version_2_1,fasta,Setaria italica JGI 8.3X chromosome-scale assembly release 2.0- annotation version 2.1
 Setaria_italica_JGI_v2_2,fasta,Setaria italica JGI v2.2
 Solanum_lycopersicum_ITAG_2_3,fasta,Solanum lycopersicum ITAG 2.3
