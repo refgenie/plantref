@@ -1,6 +1,6 @@
 pipeline_name: refgenie
 pipeline_type: sample
-input_schema: refgenie_build.yaml
+input_schema: build_inschema.yaml
 compute:
   dynamic_variables_command_template: pipeline_interfaces/build-compute-params.py -a {sample.asset} -g {sample.genome}
 command_template: >
