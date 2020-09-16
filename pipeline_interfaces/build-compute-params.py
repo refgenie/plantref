@@ -11,7 +11,7 @@ parser.add_argument("-g", "--genome", type=str, help="genome", required=True)
 
 args = parser.parse_args()
 
-params =   {
+compute =   {
     "bulker_crate": "databio/refgenie:0.7.6",
     "mem": "24000",
     "cores": "1",
@@ -26,43 +26,43 @@ slow_assets = ["bismark_bt2_index", "bismark_bt1_index", "salmon_partial_sa_inde
 
 
 if args.asset in fast_assets:
-    params['time'] = "01:00:00"
-    params['partition'] = "standard"
-    params['mem'] = "6000"
+    compute['time'] = "01:00:00"
+    compute['partition'] = "standard"
+    compute['mem'] = "6000"
     if args.genome == "Picea_abies__ConGenIE_v1_0":
-        params['time'] = "08:00:00"
-        params['mem'] = "24000"
+        compute['time'] = "08:00:00"
+        compute['mem'] = "24000"
 
 if args.asset in slow_assets:
-    params['time'] = "8:00:00"
+    compute['time'] = "8:00:00"
 
 if args.asset == 'suffixerator_index':
-    params['mem'] = "32000"
+    compute['mem'] = "32000"
 
 if args.asset == 'bowtie2_index':
-    params['mem'] = "64000"
+    compute['mem'] = "64000"
 
 if args.asset == 'bismark_bt2_index':
-    params['mem'] = "64000"
+    compute['mem'] = "64000"
 
 if args.asset == 'bismark_bt1_index':
-    params['mem'] = "64000"
+    compute['mem'] = "64000"
 
 if args.asset == 'salmon_partial_sa_index':
-    params['mem'] = "112000"
-    params['time'] = "6:00:00"
-    params['cores'] = "8"
+    compute['mem'] = "112000"
+    compute['time'] = "6:00:00"
+    compute['cores'] = "8"
 
 if args.asset == 'dbnsfp':
-    params['time'] = "12:00:00"
+    compute['time'] = "12:00:00"
 
 if args.asset == 'salmon_sa_index':
-    params['mem'] = "72000"
+    compute['mem'] = "72000"
 
 if args.asset == 'star_index':
-    params['mem'] = "64000"
+    compute['mem'] = "64000"
 
 
-y = json.dumps(params)
+y = json.dumps({"compute": compute})
 
 print(y)
