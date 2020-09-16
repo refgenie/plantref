@@ -5,8 +5,8 @@ paths:
   refgenie: "refgenie"
   compute_vars: "{looper.piface_dir}/build-compute-params.py"
 pre_submit:
-  command_template: >
-    {pipeline.paths.compute_vars} -a {sample.asset} -g {sample.genome}
+  command_template: 
+    - "{pipeline.paths.compute_vars} -a {sample.asset} -g {sample.genome}"
 command_template: >
   {pipeline.paths.refgenie} build { sample.genome }/{ sample.asset }
   {% if sample.genome_description is defined %}--genome-description '{ sample.genome_description }'{% endif %}
