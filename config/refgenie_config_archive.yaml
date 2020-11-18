@@ -15,7 +15,11 @@ genomes:
               fai: a04927989a138483fe4e2ab06e12f710f79d95932dac38a3.fa.fai
               chrom_sizes: a04927989a138483fe4e2ab06e12f710f79d95932dac38a3.chrom.sizes
             asset_parents: []
-            archive_digest: c8ae5012bfe9664f633dae81dfe065a2
+            archive_digest: 23165f2d02b2d2d1c039b937d04cdab4
+            archive_size: 14.3MB
+            asset_size: 54.9MB
+            asset_children: []
+            legacy_archive_digest: 9606c1a8cc5328ddcf138aa23f7b7354
         default_tag: default
     aliases: ['Aureococcus_anophagefferens_JGI_1_0']
     genome_description: Aureococcus anophagefferens JGI 1.0
@@ -32,7 +36,11 @@ genomes:
               fai: 3209b8ef20b0c4d9fd60fa066b9a5eea93dd2d75db7c1ef8.fa.fai
               chrom_sizes: 3209b8ef20b0c4d9fd60fa066b9a5eea93dd2d75db7c1ef8.chrom.sizes
             asset_parents: []
-            archive_digest: 1c6c6e6702fe7338c22ffaf17d37e4b0
+            archive_digest: fbe5e100182a13ef7f452336981ada95
+            archive_size: 16.1MB
+            asset_size: 53.9MB
+            asset_children: []
+            legacy_archive_digest: 985d6121a0e2039905ad720da5e0bd12
         default_tag: default
     aliases: ['Asterochloris_sp__Cgr_DA1pho_v2_0_JGI_7_45_13']
     genome_description: Asterochloris sp. Cgr/DA1pho v2.0 JGI 7.45.13
@@ -49,7 +57,11 @@ genomes:
               fai: c4b1700fd6eaace3b1ce0625c527c9c3c6efe11719447a24.fa.fai
               chrom_sizes: c4b1700fd6eaace3b1ce0625c527c9c3c6efe11719447a24.chrom.sizes
             asset_parents: []
-            archive_digest: 71d10403d7a62e4ebcb1ecc6d6142090
+            archive_digest: a8702ec97f6b7d3287f935632ed5829d
+            archive_size: 6.1MB
+            asset_size: 21.4MB
+            asset_children: []
+            legacy_archive_digest: 99d1bb1b758674164502f5f43484cafe
         default_tag: default
     aliases: ['Auxenochlorella_protothecoides_Beijing_Genomics_Institute_1_0']
     genome_description: Auxenochlorella protothecoides Beijing Genomics Institute 1.0
@@ -66,7 +78,11 @@ genomes:
               fai: ecd5f46a558421bf92c9df0b6d792d61ea8689b6ffe72bec.fa.fai
               chrom_sizes: ecd5f46a558421bf92c9df0b6d792d61ea8689b6ffe72bec.chrom.sizes
             asset_parents: []
-            archive_digest: ba86ddf81736a720a83b7bca0a37a0e0
+            archive_digest: 4c8500e80c3b675909fc29cdca3d922c
+            archive_size: 34.3MB
+            asset_size: 115.6MB
+            asset_children: []
+            legacy_archive_digest: 3592281027f38a3fff0f2ac95d7c1423
         default_tag: default
     aliases: ['Arabidopsis_thaliana_COL-0_TAIR10']
     genome_description: Arabidopsis thaliana COL-0 TAIR10
@@ -83,7 +99,11 @@ genomes:
               fai: 9f1c349e07231cd71d5cf2426ebe876578a2f562799c60ac.fa.fai
               chrom_sizes: 9f1c349e07231cd71d5cf2426ebe876578a2f562799c60ac.chrom.sizes
             asset_parents: []
-            archive_digest: 0168a4940d827e6a0133bf3d11b71fe5
+            archive_digest: 55a85194dc8574d32b090bec9ec52084
+            archive_size: 34.3MB
+            asset_size: 115.6MB
+            asset_children: []
+            legacy_archive_digest: 23f8a2501a2f6c1e46d09108bbacd389
         default_tag: default
     aliases: ['Arabidopsis_thaliana_COL-0_Araport11']
     genome_description: Arabidopsis thaliana COL-0 Araport11
@@ -116,7 +136,11 @@ genomes:
               fai: 338f522651776e82efd3997cc89dd009c1b6c5c9ffba0914.fa.fai
               chrom_sizes: 338f522651776e82efd3997cc89dd009c1b6c5c9ffba0914.chrom.sizes
             asset_parents: []
-            archive_digest: 203272938c7c750b8e850963c79bf303
+            archive_digest: d6943217dfb3c271eec42fc6b73b4d01
+            archive_size: 92.4MB
+            asset_size: 336.9MB
+            asset_children: []
+            legacy_archive_digest: ea03d8d469119d59abfab6aafbd70018
         default_tag: default
     aliases: ['Apostasia_shenzhenica_v1_0']
     genome_description: Apostasia shenzhenica v1.0
@@ -133,7 +157,11 @@ genomes:
               fai: 9cf5edd81ab9ff66eee0e51eac0e19dcfbb5ee4df014d5e8.fa.fai
               chrom_sizes: 9cf5edd81ab9ff66eee0e51eac0e19dcfbb5ee4df014d5e8.chrom.sizes
             asset_parents: []
-            archive_digest: e858d617a9bcd256a4ea7bb63cb15efd
+            archive_digest: 8bb6d0b882d9cd986eae17e209fb6afb
+            archive_size: 4.4MB
+            asset_size: 14.6MB
+            asset_children: []
+            legacy_archive_digest: ae874dfd1d6aee10bce602694ec7fc6f
         default_tag: default
     aliases: ['Bathycoccus_prasinos_Ghent_University']
     genome_description: Bathycoccus prasinos Ghent University
@@ -150,7 +178,11 @@ genomes:
               fai: 5980fd629d5a4b4418e42ba50f756ad0a0b29ea880ed67bf.fa.fai
               chrom_sizes: 5980fd629d5a4b4418e42ba50f756ad0a0b29ea880ed67bf.chrom.sizes
             asset_parents: []
-            archive_digest: 3164a5328e1360bb82c3241dc2f79502
+            archive_digest: a7d9d4741fe699b44cfed02f2c2fd3fd
+            archive_size: 107.8MB
+            asset_size: 369.0MB
+            asset_children: []
+            legacy_archive_digest: d899df09b05951cfcd80611e130d8bf4
         default_tag: default
     aliases: ['Ananas_comosus_JGI_v3_0']
     genome_description: Ananas comosus JGI v3.0
@@ -167,11 +199,11 @@ genomes:
               fai: 38326803554e8544d18d12d472d09b78cd59e850be39b1e1.fa.fai
               chrom_sizes: 38326803554e8544d18d12d472d09b78cd59e850be39b1e1.chrom.sizes
             asset_parents: []
-            archive_digest: 975669ff50a279b71f055a96e48cb7fa
+            archive_digest: 4331361ad3b81ccc704de09c776da4f1
             archive_size: 4.9MB
             asset_size: 16.1MB
             asset_children: []
-            legacy_archive_digest: de1164a1c40f11b663abacef380b988e
+            legacy_archive_digest: dc39140c069bd6a416faadaa78d82270
         default_tag: default
     aliases: ['Cyanidioschyzon_merolae_Tokyo_University']
     genome_description: Cyanidioschyzon merolae Tokyo University
@@ -188,11 +220,11 @@ genomes:
               fai: 49e3bc088253e4f6a86559760e9135b4794b0c27a5eb0116.fa.fai
               chrom_sizes: 49e3bc088253e4f6a86559760e9135b4794b0c27a5eb0116.chrom.sizes
             asset_parents: []
-            archive_digest: b6907d2ca44cd871d7b7329853bb3891
+            archive_digest: 280ed2a34ecccb462c6e2f5d4a553287
             archive_size: 12.0MB
             asset_size: 44.6MB
             asset_children: []
-            legacy_archive_digest: a8a3b38744f61dd718daf4d5f9c6986a
+            legacy_archive_digest: cacd905ed0625a2ce8e2317e345b191d
         default_tag: default
     aliases: ['Chlorella_sp_NC64A_JGI_1_0']
     genome_description: Chlorella sp NC64A JGI 1.0
@@ -209,11 +241,11 @@ genomes:
               fai: 15418c3ef8234056bd4cdfc1c067dd775d702b209b80fba9.fa.fai
               chrom_sizes: 15418c3ef8234056bd4cdfc1c067dd775d702b209b80fba9.chrom.sizes
             asset_parents: []
-            archive_digest: 1a0f0c0f8e1d0f4c669285a1741c4999
+            archive_digest: 5290254fcf0ccac4b74e86fd944630a0
             archive_size: 88.1MB
             asset_size: 339.2MB
             asset_children: []
-            legacy_archive_digest: 6c8798caaccf17fdd78cc307b87c203b
+            legacy_archive_digest: f6d6966dbdc3ed062a58934bc3c3a265
         default_tag: default
     aliases: ['Citrullus_lanatus_Cucurbit_Genomics_Database']
     genome_description: Citrullus lanatus Cucurbit Genomics Database
@@ -230,7 +262,11 @@ genomes:
               fai: 2c973960f3a6a0e70f9186e859b09250e3ec07f2e5273391.fa.fai
               chrom_sizes: 2c973960f3a6a0e70f9186e859b09250e3ec07f2e5273391.chrom.sizes
             asset_parents: []
-            archive_digest: 98bde4318892e525893c4dbd67348ada
+            archive_digest: 062cf80345f1a54a9beac82fa3e420bc
+            archive_size: 3.7MB
+            asset_size: 12.4MB
+            asset_children: []
+            legacy_archive_digest: 44802b0fe73d3a881f9cdd3ebaf363eb
         default_tag: default
     aliases: ['Helicosporidium_sp___Illinois_University_1_0']
     genome_description: Helicosporidium sp.  Illinois University 1.0
@@ -247,7 +283,11 @@ genomes:
               fai: 0edb4c903bae208b1aec15e84d98383bf7b06003e67cee8b.fa.fai
               chrom_sizes: 0edb4c903bae208b1aec15e84d98383bf7b06003e67cee8b.chrom.sizes
             asset_parents: []
-            archive_digest: d6b0459bfade1b1978ccfbda3a9bf78b
+            archive_digest: 7c34cabd6d0ce9114e4d800ea6c2c936
+            archive_size: 78.9MB
+            asset_size: 261.8MB
+            asset_children: []
+            legacy_archive_digest: c02a50b9fe88514d317567fd04221f15
         default_tag: default
     aliases: ['Brachypodium_distachyon_JGI_v3_1']
     genome_description: Brachypodium distachyon JGI v3.1
@@ -264,7 +304,11 @@ genomes:
               fai: 8cf7a4e78273b480e57b9a7f28f2b911b506105d24f05c1b.fa.fai
               chrom_sizes: 8cf7a4e78273b480e57b9a7f28f2b911b506105d24f05c1b.chrom.sizes
             asset_parents: []
-            archive_digest: ab92eac4210f9f813e6de9f8d9564ebc
+            archive_digest: 60c12250dccc7b474a5ddd666edc03fd
+            archive_size: 78.9MB
+            asset_size: 262.7MB
+            asset_children: []
+            legacy_archive_digest: cee5217d5058ea04e786b80a26c28125
         default_tag: default
     aliases: ['Brachypodium_distachyon_MIPS_1_2']
     genome_description: Brachypodium distachyon MIPS 1.2
@@ -281,11 +325,11 @@ genomes:
               fai: fdca8d561c704c5a71d01ef3a3795a7cd62f71459a43a1eb.fa.fai
               chrom_sizes: fdca8d561c704c5a71d01ef3a3795a7cd62f71459a43a1eb.chrom.sizes
             asset_parents: []
-            archive_digest: 747ef50db0522d91ce5fc55d34a365d2
+            archive_digest: 0c8f8bb0924e53f4e7e60dde24008d85
             archive_size: 30.3MB
             asset_size: 107.5MB
             asset_children: []
-            legacy_archive_digest: 92444f2bc2cd88c5b1e2451143106adb
+            legacy_archive_digest: dd3759ad6b228d1dfdd368fc6080fa55
         default_tag: default
     aliases: ['Chlamydomonas_reinhardtii_JGI_v5_0_assembly_annot_v5_3_1_based_on_Augustus_u11_6']
     genome_description: Chlamydomonas reinhardtii JGI v5.0 assembly- annot v5.3.1 based on Augustus u11.6
@@ -318,7 +362,11 @@ genomes:
               fai: 01a975db35ee06014068ba54db15fa81a3d4ee3091686222.fa.fai
               chrom_sizes: 01a975db35ee06014068ba54db15fa81a3d4ee3091686222.chrom.sizes
             asset_parents: []
-            archive_digest: c4f33bb571c6fc1f189696d117f69e98
+            archive_digest: 6457ac22178fc26da9f3ff959e2e90f2
+            archive_size: 3.6MB
+            asset_size: 12.1MB
+            asset_children: []
+            legacy_archive_digest: 81d5698345e4da33842aa7d43ef8df89
         default_tag: default
     aliases: ['Ostreococcus_tauri_Ghent_University_v2_0']
     genome_description: Ostreococcus tauri Ghent University v2.0
@@ -335,7 +383,11 @@ genomes:
               fai: 1b6a08f56f840bfe6af578c5433f2db391c95beeb4dbded0.fa.fai
               chrom_sizes: 1b6a08f56f840bfe6af578c5433f2db391c95beeb4dbded0.chrom.sizes
             asset_parents: []
-            archive_digest: b3a25480cd6f9a450453860cd07013a3
+            archive_digest: b81ffec33867aa6ae8506946ef626220
+            archive_size: 56.2MB
+            asset_size: 199.8MB
+            asset_children: []
+            legacy_archive_digest: 48dc339aa08645d25c5a6b7214bfd8ae
         default_tag: default
     aliases: ['Fragaria_vesca__JGI_v1_1']
     genome_description: Fragaria vesca  JGI v1.1
@@ -352,7 +404,11 @@ genomes:
               fai: 75ed1b056a5ba021b127c8a948efed115d5f14b804f98774.fa.fai
               chrom_sizes: 75ed1b056a5ba021b127c8a948efed115d5f14b804f98774.chrom.sizes
             asset_parents: []
-            archive_digest: f738672f231eb1e541005887521a24ba
+            archive_digest: e59f4663d9ab6d64abed87e478d170d9
+            archive_size: 14.4MB
+            asset_size: 47.5MB
+            asset_children: []
+            legacy_archive_digest: 20f02431fbb47fe4bd6982a4414c5184
         default_tag: default
     aliases: ['Coccomyxa_subellipsoidea_C-169_JGI_2_0_Phytozome_10_2']
     genome_description: Coccomyxa subellipsoidea C-169 JGI 2.0 (Phytozome 10.2)
@@ -369,7 +425,11 @@ genomes:
               fai: 7e447ca48b9bd149910c17766822270fefe17af3f672608a.fa.fai
               chrom_sizes: 7e447ca48b9bd149910c17766822270fefe17af3f672608a.chrom.sizes
             asset_parents: []
-            archive_digest: f6701dcb5b935c381356bffb58405309
+            archive_digest: 8d865ce965b9bf840cf53e43aa844f47
+            archive_size: 29.5MB
+            asset_size: 108.7MB
+            asset_children: []
+            legacy_archive_digest: 3b36d21b46a173eb2b742b7162e0c712
         default_tag: default
     aliases: ['Chlamydomonas_reinhardtii_JGI_5_5_Phytozome_10_2']
     genome_description: Chlamydomonas reinhardtii JGI 5.5 (Phytozome 10.2)
@@ -386,7 +446,11 @@ genomes:
               fai: bcd32a091fd83b19f9df935618196efc2af302c0a9e3eac8.fa.fai
               chrom_sizes: bcd32a091fd83b19f9df935618196efc2af302c0a9e3eac8.chrom.sizes
             asset_parents: []
-            archive_digest: fa2a33c3286b9d74269d74ee7f5f4d64
+            archive_digest: b4f84ac9910d0a38b69587b3156dc999
+            archive_size: 80.0MB
+            asset_size: 302.1MB
+            asset_children: []
+            legacy_archive_digest: 22db490c97c48f37ff421fbf569b605d
         default_tag: default
     aliases: ['Erythranthe_guttata__JGI_v2_0']
     genome_description: Erythranthe guttata  JGI v2.0
@@ -403,7 +467,11 @@ genomes:
               fai: 01139a772b15031670b3517b4b81cb26cc3eeba98b9699ab.fa.fai
               chrom_sizes: 01139a772b15031670b3517b4b81cb26cc3eeba98b9699ab.chrom.sizes
             asset_parents: []
-            archive_digest: ec9a02efd228d6637f89c9ef7237d67b
+            archive_digest: 588b37d89f4ca4aed12fb820cca2ba17
+            archive_size: 173.4MB
+            asset_size: 609.7MB
+            asset_children: []
+            legacy_archive_digest: 4b2eba3f7a82eb2e4bf775a3b6f4d379
         default_tag: default
     aliases: ['Actinidia_chinensis__FEI_Lab_v1_0']
     genome_description: Actinidia chinensis  FEI Lab v1.0
@@ -420,7 +488,11 @@ genomes:
               fai: 328101688cb6186cae77d01db368a86257eeefd0e485fdb5.fa.fai
               chrom_sizes: 328101688cb6186cae77d01db368a86257eeefd0e485fdb5.chrom.sizes
             asset_parents: []
-            archive_digest: 412fdcecc45f59c0067e856f54a7b3e7
+            archive_digest: c3e749ab719541cf0a6f6e2f6b449231
+            archive_size: 3.9MB
+            asset_size: 13.1MB
+            asset_children: []
+            legacy_archive_digest: 80f2ec13e2598e8e49e57038123482f5
         default_tag: default
     aliases: ['Ostreococcus_mediterraneus_Ghent_University']
     genome_description: Ostreococcus mediterraneus Ghent University
@@ -437,7 +509,11 @@ genomes:
               fai: 1796110785276b4c1e5e9e9a821371ac2a4faad6ca79e179.fa.fai
               chrom_sizes: 1796110785276b4c1e5e9e9a821371ac2a4faad6ca79e179.chrom.sizes
             asset_parents: []
-            archive_digest: 2fdb7fea3f12025ec5595a09a7c72c43
+            archive_digest: d7b7bbab309b47166c4c790a71f8b0da
+            archive_size: 3.8MB
+            asset_size: 12.8MB
+            asset_children: []
+            legacy_archive_digest: 1e73992752dae485ab52ff9f20e800ac
         default_tag: default
     aliases: ['Ostreococcus_sp_RCC809_JGI_2_0']
     genome_description: Ostreococcus sp RCC809 JGI 2.0
@@ -470,11 +546,11 @@ genomes:
               fai: 9edb5e4b197fe74cc7e6dbd565546e6cb3d901362ed1b9e5.fa.fai
               chrom_sizes: 9edb5e4b197fe74cc7e6dbd565546e6cb3d901362ed1b9e5.chrom.sizes
             asset_parents: []
-            archive_digest: 253e762cc30b7aef13c2dfa504b9c017
+            archive_digest: bc6f266dbd8f2e60851c265dfde3bfa5
             archive_size: 6.0MB
             asset_size: 21.3MB
             asset_children: []
-            legacy_archive_digest: 7914e1a0d3b2f6343cb49bd904d008f3
+            legacy_archive_digest: 21e8dd8cad431fec9888d177a0bdc696
         default_tag: default
     aliases: ['Micromonas_pusilla_strain_CCMP1545_Ghent_University']
     genome_description: Micromonas pusilla strain CCMP1545 Ghent University
@@ -491,7 +567,11 @@ genomes:
               fai: ba2154e1f16438595a01ceef7e2784c0ad1b0df46816ff11.fa.fai
               chrom_sizes: ba2154e1f16438595a01ceef7e2784c0ad1b0df46816ff11.chrom.sizes
             asset_parents: []
-            archive_digest: 1a658cbbf8552022bd4c3b9b8860f45b
+            archive_digest: af443003d4aec9a7a73913ab55a675c6
+            archive_size: 111.9MB
+            asset_size: 377.5MB
+            asset_children: []
+            legacy_archive_digest: 4e2222982f2d1d81c385182acc288910
         default_tag: default
     aliases: ['Oryza_sativa_ssp__indica_MBKBASE_v1_0']
     genome_description: Oryza sativa ssp. indica MBKBASE v1.0
@@ -508,7 +588,11 @@ genomes:
               fai: eb0baec1671c8d62bbf4257127770e1847db3e108e07d155.fa.fai
               chrom_sizes: eb0baec1671c8d62bbf4257127770e1847db3e108e07d155.chrom.sizes
             asset_parents: []
-            archive_digest: 0cee51983089e00cf98c2396c79d1fc9
+            archive_digest: 248f423aa98c20932d5d17a3d62f75fb
+            archive_size: 37.9MB
+            asset_size: 140.2MB
+            asset_children: []
+            legacy_archive_digest: 256acf82472a411489a79c11b9b0c2b2
         default_tag: default
     aliases: ['Spirodela_polyrhiza_JGI_v2_0']
     genome_description: Spirodela polyrhiza JGI v2.0
@@ -525,7 +609,11 @@ genomes:
               fai: bf0deddb13d6a5430e1220950dbc7f26193768a2e7cd7dcf.fa.fai
               chrom_sizes: bf0deddb13d6a5430e1220950dbc7f26193768a2e7cd7dcf.chrom.sizes
             asset_parents: []
-            archive_digest: 14dbba085aef01bb2b00ef51a1843015
+            archive_digest: 0d52da147e2ab1cb8fd0f83bec719c61
+            archive_size: 22.3MB
+            asset_size: 78.0MB
+            asset_children: []
+            legacy_archive_digest: 3f6d4839d1a6938e2d0486be94811d24
         default_tag: default
     aliases: ['Fragilariopsis_cylindrus_JGI_1_0']
     genome_description: Fragilariopsis cylindrus JGI 1.0
@@ -542,11 +630,11 @@ genomes:
               fai: abac709d485d41085afef4f52e4a773c7436d7254581f96f.fa.fai
               chrom_sizes: abac709d485d41085afef4f52e4a773c7436d7254581f96f.chrom.sizes
             asset_parents: []
-            archive_digest: 09763c30164380767d4458a985ba44d2
+            archive_digest: d5eddc64a801c4952037d8559b8d8835
             archive_size: 6.0MB
             asset_size: 20.3MB
             asset_children: []
-            legacy_archive_digest: 604be4bce2bf999397c7cdbdc83a72e3
+            legacy_archive_digest: a2023d67918c41037e41c5136d2100ae
         default_tag: default
     aliases: ['Micromonas_commoda__JGI_v3_0']
     genome_description: Micromonas commoda  JGI v3.0
@@ -563,7 +651,11 @@ genomes:
               fai: c2199ff32343cc14da62a119799b504c1a39dac1b897aa7a.fa.fai
               chrom_sizes: c2199ff32343cc14da62a119799b504c1a39dac1b897aa7a.chrom.sizes
             asset_parents: []
-            archive_digest: 5e812e05ef2e11991d0aa62a5b65ed85
+            archive_digest: 32fa31ae90e4cb758cefb72e1785d577
+            archive_size: 107.7MB
+            asset_size: 361.6MB
+            asset_children: []
+            legacy_archive_digest: d1689d998cfcb202e807071e5fcc5245
         default_tag: default
     aliases: ['Oryza_sativa_ssp__japonica__JGI_v7_0']
     genome_description: Oryza sativa ssp. japonica  JGI v7.0
@@ -580,7 +672,11 @@ genomes:
               fai: bbeffc686b8ecca6b50fe1c974ed0add0cb5a08167e0c7ee.fa.fai
               chrom_sizes: bbeffc686b8ecca6b50fe1c974ed0add0cb5a08167e0c7ee.chrom.sizes
             asset_parents: []
-            archive_digest: 39040461317177ceddaacd02865020b2
+            archive_digest: fcbf734a13e5a30bf5470a2f77306461
+            archive_size: 107.3MB
+            asset_size: 360.1MB
+            asset_children: []
+            legacy_archive_digest: 3733f2581abbcbc53f04777f893c42a2
         default_tag: default
     aliases: ['Oryza_sativa_MSU_RGAP_7']
     genome_description: Oryza sativa MSU RGAP 7
@@ -597,7 +693,11 @@ genomes:
               fai: 88907d8dcdbebcae36aee6e3577aec10f0945506bad2dd0a.fa.fai
               chrom_sizes: 88907d8dcdbebcae36aee6e3577aec10f0945506bad2dd0a.chrom.sizes
             asset_parents: []
-            archive_digest: db0155cab9d4ec65fcc73895668da1e0
+            archive_digest: 408566718bcb5a4e0a658d11e389d3b1
+            archive_size: 82.3MB
+            asset_size: 682.4MB
+            asset_children: []
+            legacy_archive_digest: eb5d2c0d4d7cf797b9e1ec7deacf5300
         default_tag: default
     aliases: ['Amborella_trichopoda_Amborella_v1']
     genome_description: Amborella trichopoda Amborella v1
@@ -614,11 +714,11 @@ genomes:
               fai: 5a6f13fafd349ac316b38dc3c1c4c0245fd9fc6020d63e21.fa.fai
               chrom_sizes: 5a6f13fafd349ac316b38dc3c1c4c0245fd9fc6020d63e21.chrom.sizes
             asset_parents: []
-            archive_digest: 8c07969977ed825305daf1b6d3c81001
+            archive_digest: 5b18f56849c630d2d2ebe884bc69bcea
             archive_size: 142.5MB
             asset_size: 494.5MB
             asset_children: []
-            legacy_archive_digest: 1e61f947505fe0222639dff7205e2eec
+            legacy_archive_digest: 8a6fc1a0901e2b673b70031c90ae7350
         default_tag: default
     aliases: ['Pyrus_bretschneideri__Pear_Genome_Project_v1_0']
     genome_description: Pyrus bretschneideri  Pear Genome Project v1.0
@@ -635,7 +735,11 @@ genomes:
               fai: 3ecd2f582bcb7c262cf3a0c228681ea9d030095e0d580d1d.fa.fai
               chrom_sizes: 3ecd2f582bcb7c262cf3a0c228681ea9d030095e0d580d1d.chrom.sizes
             asset_parents: []
-            archive_digest: 22325f9a31fcb52fa9d0f7c6aeae151a
+            archive_digest: 4e3ef485145ab639385fd1dbd03016d2
+            archive_size: 63.8MB
+            asset_size: 219.6MB
+            asset_children: []
+            legacy_archive_digest: 0342265c64e0c1482a7d1140cc19df70
         default_tag: default
     aliases: ['Prunus_persica__JGI_v2_1']
     genome_description: Prunus persica  JGI v2.1
@@ -652,7 +756,11 @@ genomes:
               fai: a9157f405dc533114a3e16a001a81f0e724c3a4e95e32ed6.fa.fai
               chrom_sizes: a9157f405dc533114a3e16a001a81f0e724c3a4e95e32ed6.chrom.sizes
             asset_parents: []
-            archive_digest: cca7fac09b5916cca8585a17735ae17c
+            archive_digest: 0412a83ccd18e07dc620f8a122e99786
+            archive_size: 116.4MB
+            asset_size: 391.8MB
+            asset_children: []
+            legacy_archive_digest: 64db634c3f55121ece96598b6969171f
         default_tag: default
     aliases: ['Setaria_italica_JGI_v2_2']
     genome_description: Setaria italica JGI v2.2
@@ -669,11 +777,11 @@ genomes:
               fai: bf4a82f8328546c711d24cb321d56d8b323428b97f61fa69.fa.fai
               chrom_sizes: bf4a82f8328546c711d24cb321d56d8b323428b97f61fa69.chrom.sizes
             asset_parents: []
-            archive_digest: bf9971c1aed89a55d0b0c795f3ff2af6
+            archive_digest: 572b86a6d2e3c04ba7a8ee3f3f5e9e5b
             archive_size: 112.8MB
             asset_size: 399.6MB
             asset_children: []
-            legacy_archive_digest: a54405a64663870a6622285469d1ddcc
+            legacy_archive_digest: dd826a98065bae9d8cc1cc7560806c79
         default_tag: default
     aliases: ['Medicago_truncatula_JCVI_4_0']
     genome_description: Medicago truncatula JCVI 4.0
@@ -690,11 +798,11 @@ genomes:
               fai: 450527cc8d238d1c3b8529f85e158903c00fc997930254f2.fa.fai
               chrom_sizes: 450527cc8d238d1c3b8529f85e158903c00fc997930254f2.chrom.sizes
             asset_parents: []
-            archive_digest: 8f84badfa7daab0b72a50677245b3c21
+            archive_digest: 2378c9a3dd433441a2407d67baad7243
             archive_size: 111.1MB
             asset_size: 397.8MB
             asset_children: []
-            legacy_archive_digest: 3a4f4622e1ebf8f2b6cb19e69ed6eae4
+            legacy_archive_digest: da6865c944fac3563047cb6029987f47
         default_tag: default
     aliases: ['Medicago_truncatula__JGI_Mt4_0v1']
     genome_description: Medicago truncatula  JGI Mt4.0v1
@@ -711,6 +819,11 @@ genomes:
               fai: ee639682e1cfab5b6f4eea28ee91db31f39dedbaf0b25011.fa.fai
               chrom_sizes: ee639682e1cfab5b6f4eea28ee91db31f39dedbaf0b25011.chrom.sizes
             asset_parents: []
+            archive_digest: 237dd6e33bf66cf0b2b618e9e7cc6896
+            archive_size: 29.4MB
+            asset_size: 126.7MB
+            asset_children: []
+            legacy_archive_digest: 3645b156ec40016c7ca9448186eecf32
         default_tag: default
     aliases: ['Volvox_carteri_JGI_2_0_Phtyozome_10_2']
     genome_description: Volvox carteri JGI 2.0 (Phtyozome 10.2)
@@ -727,6 +840,11 @@ genomes:
               fai: 9d5f052c463a389c5e6bdeda5276bbf189fc1f4db61f29f9.fa.fai
               chrom_sizes: 9d5f052c463a389c5e6bdeda5276bbf189fc1f4db61f29f9.chrom.sizes
             asset_parents: []
+            archive_digest: 51a1f7b10e417d3fd8e49ae010d255b9
+            archive_size: 33.6MB
+            asset_size: 118.0MB
+            asset_children: []
+            legacy_archive_digest: bd1745a019712b6acddb994b62f0b061
         default_tag: default
     aliases: ['Thellungiella_parvula_TpV84']
     genome_description: Thellungiella parvula TpV84
@@ -743,6 +861,11 @@ genomes:
               fai: 0cc477fedb3a0e2d7f40f9ae3abf277fd3fbeaf0c9569870.fa.fai
               chrom_sizes: 0cc477fedb3a0e2d7f40f9ae3abf277fd3fbeaf0c9569870.chrom.sizes
             asset_parents: []
+            archive_digest: e17e251e34d16a395c685e7a30ea3226
+            archive_size: 94.2MB
+            asset_size: 334.1MB
+            asset_children: []
+            legacy_archive_digest: 5800ef92e08b681a433f47a7a74249f4
         default_tag: default
     aliases: ['Theobroma_cacao__RefSeq_v1_1']
     genome_description: Theobroma cacao  RefSeq v1.1
@@ -759,7 +882,11 @@ genomes:
               fai: b31e58d022a690e829e7a17fe4e1e58afd8a0f852e71e9d4.fa.fai
               chrom_sizes: b31e58d022a690e829e7a17fe4e1e58afd8a0f852e71e9d4.chrom.sizes
             asset_parents: []
-            archive_digest: 45fb84f67c51d9138207141e8c3b735b
+            archive_digest: c87a6e426fe4036b21ef701399a60271
+            archive_size: 35.6MB
+            asset_size: 119.5MB
+            asset_children: []
+            legacy_archive_digest: 43f10ac10ec0a91dc7b16d13ba180671
         default_tag: default
     aliases: ['Schrenkiella_parvula__Thellungiella_v2_0_TpV84']
     genome_description: Schrenkiella parvula  Thellungiella v2.0 (TpV84)
@@ -776,7 +903,11 @@ genomes:
               fai: f9fdcbe9d5069192f97bf430d70b0ee0cc1f477f32ed834b.fa.fai
               chrom_sizes: f9fdcbe9d5069192f97bf430d70b0ee0cc1f477f32ed834b.chrom.sizes
             asset_parents: []
-            archive_digest: 08b8e64699a285819c2be564c4b9cc28
+            archive_digest: b5eeb23a4e18d0c9a817720c6c7e2db9
+            archive_size: 55.0MB
+            asset_size: 197.1MB
+            asset_children: []
+            legacy_archive_digest: 8f5922de564a400bbdc6e04f85417426
         default_tag: default
     aliases: ['Zostera_marina_JGI_v2_2']
     genome_description: Zostera marina JGI v2.2
@@ -793,11 +924,11 @@ genomes:
               fai: b9ffb3bf121a642f4e7d3aa5345bf33909f557b573edbc56.fa.fai
               chrom_sizes: b9ffb3bf121a642f4e7d3aa5345bf33909f557b573edbc56.chrom.sizes
             asset_parents: []
-            archive_digest: f53d7e6615b080996ed15fd699ddaecf
+            archive_digest: 49ecd770b1fe9dbb62016ad3279c43ff
             archive_size: 116.6MB
             asset_size: 423.0MB
             asset_children: []
-            legacy_archive_digest: f4a69dffbec8d71a13b876fabcb874fd
+            legacy_archive_digest: 23b12b45250eda17bb8d1f22be373c94
         default_tag: default
     aliases: ['Ziziphus_jujuba__RefSeq_v1_1']
     genome_description: Ziziphus jujuba  RefSeq v1.1
@@ -814,6 +945,11 @@ genomes:
               fai: e47197210b3de16a32e7bf5aec45def56fd91d781e965e6c.fa.fai
               chrom_sizes: e47197210b3de16a32e7bf5aec45def56fd91d781e965e6c.chrom.sizes
             asset_parents: []
+            archive_digest: d2d61d8314f6d1436ef67737dce4f0dc
+            archive_size: 9.2MB
+            asset_size: 30.3MB
+            asset_children: []
+            legacy_archive_digest: 184b431fe044c1076a66c0eff1a51e56
         default_tag: default
     aliases: ['Thalassiosira_pseudonana_JGI_3_0']
     genome_description: Thalassiosira pseudonana JGI 3.0
@@ -830,11 +966,11 @@ genomes:
               fai: 79c05606860051c5261df12744ee9dee2063db55a06ccaac.fa.fai
               chrom_sizes: 79c05606860051c5261df12744ee9dee2063db55a06ccaac.chrom.sizes
             asset_parents: []
-            archive_digest: 737e922864edbedba19cf14606529641
+            archive_digest: 0b6148df9301d85b24c07b68d8dce693
             archive_size: 135.6MB
             asset_size: 472.3MB
             asset_children: []
-            legacy_archive_digest: d7069abf2ef0596aa9463addd19a7efd
+            legacy_archive_digest: dd7fddb41cd543ad71e136eb1691e424
         default_tag: default
     aliases: ['Vitis_vinifera_genescope_v1']
     genome_description: Vitis vinifera genescope v1
@@ -851,11 +987,11 @@ genomes:
               fai: b05ccb6fa8741547f81c4e2b1a3e5c9e795c460a7a040198.fa.fai
               chrom_sizes: b05ccb6fa8741547f81c4e2b1a3e5c9e795c460a7a040198.chrom.sizes
             asset_parents: []
-            archive_digest: bb9f15547ca0216b11df4db849861a1c
+            archive_digest: baf482d71c7eed478f8d807ac31ab8b4
             archive_size: 133.3MB
             asset_size: 469.5MB
             asset_children: []
-            legacy_archive_digest: 7da395144b3738812a7ed1829963751d
+            legacy_archive_digest: 968fee656618c4ea353f4d7f73bb539a
         default_tag: default
     aliases: ['Vitis_vinifera__JGI_12xMarch2010']
     genome_description: Vitis vinifera  JGI 12xMarch2010
@@ -872,11 +1008,11 @@ genomes:
               fai: 17691bbe9a2634f58f11869951dab8df85ef377623d9bf9c.fa.fai
               chrom_sizes: 17691bbe9a2634f58f11869951dab8df85ef377623d9bf9c.chrom.sizes
             asset_parents: []
-            archive_digest: 3e87bdb7c6e31205e783bc532445f915
+            archive_digest: 6b90469c4e15bcb642454f26e3a02365
             archive_size: 183.1MB
             asset_size: 611.3MB
             asset_children: []
-            legacy_archive_digest: 06acdfe8edf86e185bebe47af5790922
+            legacy_archive_digest: cdb88580525eb3e098e589f12e607ee6
         default_tag: default
     aliases: ['Malus_domestica__Penguin_Genomics_v2']
     genome_description: Malus domestica  Penguin Genomics v2
@@ -893,7 +1029,6 @@ genomes:
               fai: ed34b3c16cacdd46578f82f2fd9b5f790461e5a4fdb7d2d5.fa.fai
               chrom_sizes: ed34b3c16cacdd46578f82f2fd9b5f790461e5a4fdb7d2d5.chrom.sizes
             asset_parents: []
-            archive_digest: e4144f307a6a0bb3c4595a7f8ea39557
         default_tag: default
     aliases: ['Musa_acuminata_Genescope-Cirad']
     genome_description: Musa acuminata Genescope-Cirad
@@ -910,7 +1045,11 @@ genomes:
               fai: f202defaa0de396d043eaa3a99ec569252e529c8f5a6d17b.fa.fai
               chrom_sizes: f202defaa0de396d043eaa3a99ec569252e529c8f5a6d17b.chrom.sizes
             asset_parents: []
-            archive_digest: f2d94c5f63e2a4da779f2e8eff54b8cb
+            archive_digest: cd74f2f71041a78ea06cef1569098059
+            archive_size: 64.1MB
+            asset_size: 234.0MB
+            asset_children: []
+            legacy_archive_digest: da5252f2b2fc898ec8ecae0e3ba5214d
         default_tag: default
     aliases: ['Fragaria_vesca_Strawberry_Genome_1_0']
     genome_description: Fragaria vesca Strawberry Genome 1.0
@@ -927,11 +1066,11 @@ genomes:
               fai: 5f9e34c62ad27e9edf5d08968c7e16e15a488199b3b2ec1b.fa.fai
               chrom_sizes: 5f9e34c62ad27e9edf5d08968c7e16e15a488199b3b2ec1b.chrom.sizes
             asset_parents: []
-            archive_digest: 1d36d5e6b393fc19459b70cd59893c0e
+            archive_digest: 5d5ceb03540f091ff80f2a248bbdcdfd
             archive_size: 81.0MB
             asset_size: 359.8MB
             asset_children: []
-            legacy_archive_digest: a4e0838105539c270cc5ff27ea5bb13a
+            legacy_archive_digest: b4457f0c4e9b23b59747467240d450b3
         default_tag: default
     aliases: ['Carica_papaya_Hawaii_Agriculture_Research_Center']
     genome_description: Carica papaya Hawaii Agriculture Research Center
@@ -948,7 +1087,11 @@ genomes:
               fai: a92ec5d11a8c5f1703013e9a0e045ccf9977ec281d18e781.fa.fai
               chrom_sizes: a92ec5d11a8c5f1703013e9a0e045ccf9977ec281d18e781.chrom.sizes
             asset_parents: []
-            archive_digest: 284fcfb98808931e667a9055840418a7
+            archive_digest: e3c2209b3cbc0b8202ef3182db4cd4fc
+            archive_size: 185.7MB
+            asset_size: 668.0MB
+            asset_children: []
+            legacy_archive_digest: c2de1d133be163e172401fad7446dcc4
         default_tag: default
     aliases: ['Eucalyptus_grandis_JGI_assembly_v1_0_annotation_v1_1']
     genome_description: Eucalyptus grandis JGI assembly v1.0- annotation v1.1
@@ -965,11 +1108,11 @@ genomes:
               fai: 75ff11017c451b4251cb800c4b9634eba5d27e3e1db4b8f4.fa.fai
               chrom_sizes: 75ff11017c451b4251cb800c4b9634eba5d27e3e1db4b8f4.chrom.sizes
             asset_parents: []
-            archive_digest: 0fcef415f0d23b833e9818945c6a146b
+            archive_digest: 3a8f095fb670064e47c5000702f93c28
             archive_size: 30.2MB
             asset_size: 107.3MB
             asset_children: []
-            legacy_archive_digest: 9c0ee63e132072eac4e97429604d09e4
+            legacy_archive_digest: 0644ddf5f5ee83a5b7b5c6ea6f1b87a8
         default_tag: default
     aliases: ['Chlamydomonas_reinhardtii__JGI_v5_5']
     genome_description: Chlamydomonas reinhardtii  JGI v5.5
@@ -986,11 +1129,11 @@ genomes:
               fai: 1df21ea327d7b37b1f132943751bc1d81b7642152fe77b5a.fa.fai
               chrom_sizes: 1df21ea327d7b37b1f132943751bc1d81b7642152fe77b5a.chrom.sizes
             asset_parents: []
-            archive_digest: fd17ccc50fe3dad575a8151ba43bb120
+            archive_digest: 8af10a318978febd48cb1d6cb8357770
             archive_size: 117.0MB
             asset_size: 435.3MB
             asset_children: []
-            legacy_archive_digest: ebbce57cdea53cb022889cb5fb664a6b
+            legacy_archive_digest: 9dbc747927c9ed88e39af6ae2de391f0
         default_tag: default
     aliases: ['Musa_acuminata_Banana_Genome_v2_0']
     genome_description: Musa acuminata Banana Genome v2.0
@@ -1007,11 +1150,11 @@ genomes:
               fai: 09caecc78ed519cf256668505641345c9d1b7011426f66ba.fa.fai
               chrom_sizes: 09caecc78ed519cf256668505641345c9d1b7011426f66ba.chrom.sizes
             asset_parents: []
-            archive_digest: d063c6f806086a19195029c5cbbff9df
+            archive_digest: faf77873250131d909d9ccf99b8984c9
             archive_size: 72.3MB
             asset_size: 331.3MB
             asset_children: []
-            legacy_archive_digest: d69d8aa672afec75f34c5fb6aee524fe
+            legacy_archive_digest: 6489c80d177fa12da08ad0014488e2d8
         default_tag: default
     aliases: ['Carica_papaya__JGI_ASGPB0_4']
     genome_description: Carica papaya  JGI ASGPB0.4
@@ -1028,7 +1171,11 @@ genomes:
               fai: 21b18dc8e6ae284c62b6d6a77b6d1a4409546f51ff4fbbd5.fa.fai
               chrom_sizes: 21b18dc8e6ae284c62b6d6a77b6d1a4409546f51ff4fbbd5.chrom.sizes
             asset_parents: []
-            archive_digest: 0f617db17f9945f5955343b315d344bc
+            archive_digest: 18b24372a45ea467f3a0838c42d1514b
+            archive_size: 428.6MB
+            asset_size: 735.4MB
+            asset_children: []
+            legacy_archive_digest: 45d6ae891eba3fd0e75a2b1ae3a1e440
         default_tag: default
     aliases: ['Gossypium_raimondii_JGI_annotation_v2_1_on_assembly_v2_0']
     genome_description: Gossypium raimondii JGI annotation v2.1 on assembly v2.0
@@ -1045,6 +1192,11 @@ genomes:
               fai: fbabae8e1dd4354102ef4524d3b0d9f27dc0cb094dc2f6ba.fa.fai
               chrom_sizes: fbabae8e1dd4354102ef4524d3b0d9f27dc0cb094dc2f6ba.chrom.sizes
             asset_parents: []
+            archive_digest: 88db06e7d6922240fe76b0a221822d75
+            archive_size: 96.5MB
+            asset_size: 336.6MB
+            asset_children: []
+            legacy_archive_digest: df09ae708cbc46b85726653eaee37242
         default_tag: default
     aliases: ['Theobroma_cacao_D__Gilbert_public_gene_set_8_Mar_2012_on_assembly_v1_1']
     genome_description: Theobroma cacao D. Gilbert public gene set 8 Mar 2012 on assembly v1.1
@@ -1061,11 +1213,11 @@ genomes:
               fai: bd29315e8b9335b574a6051616ff9a92aeaf1645d275ee09.fa.fai
               chrom_sizes: bd29315e8b9335b574a6051616ff9a92aeaf1645d275ee09.chrom.sizes
             asset_parents: []
-            archive_digest: aef3f889ec1712f334b5695a07b545b9
+            archive_digest: 889a931b0b6d73ea647ff8bb34ade2e2
             archive_size: 123.8MB
             asset_size: 447.3MB
             asset_children: []
-            legacy_archive_digest: e53a82eb0d2833a7e26dbdc19b2ee352
+            legacy_archive_digest: 4e8f954e513156de6b7d338d239e490a
         default_tag: default
     aliases: ['Vigna_radiata_var__radiata__LIS_v6']
     genome_description: Vigna radiata var. radiata  LIS v6
@@ -1082,6 +1234,11 @@ genomes:
               fai: ddfb008d8a2cfd35ccd694299f488a765fe7935bf42fe21b.fa.fai
               chrom_sizes: ddfb008d8a2cfd35ccd694299f488a765fe7935bf42fe21b.chrom.sizes
             asset_parents: []
+            archive_digest: ab8a5682942a0ef7977b37b6b90b7b87
+            archive_size: 90.3MB
+            asset_size: 338.1MB
+            asset_children: []
+            legacy_archive_digest: 0e5aae95eb8250397eedff221be15f3c
         default_tag: default
     aliases: ['Trifolium_pratense__JGI_v2']
     genome_description: Trifolium pratense  JGI v2
@@ -1098,7 +1255,11 @@ genomes:
               fai: 7e2ebbe8f76f6bd55c331826fbe87c31890f8ef78c07ff39.fa.fai
               chrom_sizes: 7e2ebbe8f76f6bd55c331826fbe87c31890f8ef78c07ff39.chrom.sizes
             asset_parents: []
-            archive_digest: e4c5873b381dc3fa9f5aa54281cb53b7
+            archive_digest: 05e3158cae29bda1d8f106185d704b21
+            archive_size: 193.5MB
+            asset_size: 746.4MB
+            asset_children: []
+            legacy_archive_digest: fe5bff3d89189dc71039ce1242b7c24d
         default_tag: default
     aliases: ['Solanum_tuberosum__JGI_v4_03']
     genome_description: Solanum tuberosum  JGI v4.03
@@ -1115,11 +1276,11 @@ genomes:
               fai: aa940fa6e513d077da6bd58e82da06cfffd1bd206ec09b71.fa.fai
               chrom_sizes: aa940fa6e513d077da6bd58e82da06cfffd1bd206ec09b71.chrom.sizes
             asset_parents: []
-            archive_digest: df753ebf044c9e11467f8e421f8bef5a
+            archive_digest: b60dcbbae7f3489ad8473bf9fdd3348c
             archive_size: 142.5MB
             asset_size: 562.4MB
             asset_children: []
-            legacy_archive_digest: 747888ff66892d5f2ec112a609b97557
+            legacy_archive_digest: a09d00dcfe769e90860f43e746afeff3
         default_tag: default
     aliases: ['Manihot_esculenta__JGI_v6_1']
     genome_description: Manihot esculenta  JGI v6.1
@@ -1136,7 +1297,11 @@ genomes:
               fai: c0770ea58976888c6a18be52776291b0fa26a1d85ec4ec25.fa.fai
               chrom_sizes: c0770ea58976888c6a18be52776291b0fa26a1d85ec4ec25.chrom.sizes
             asset_parents: []
-            archive_digest: 96ae4b3015b8a77f2a1d91d837c47864
+            archive_digest: 1e69a6bbd9cc5617190611b6ca83784e
+            archive_size: 71.6MB
+            asset_size: 252.3MB
+            asset_children: []
+            legacy_archive_digest: 85d77ceea567cc1d2e5853fb6d8142a0
         default_tag: default
     aliases: ['Oryza_brachyantha_Ensembl_Plants_v1_4b']
     genome_description: Oryza brachyantha Ensembl Plants v1.4b
@@ -1153,11 +1318,11 @@ genomes:
               fai: f30f63b417809e772833c3be01ee0847b48ff1782f06214c.fa.fai
               chrom_sizes: f30f63b417809e772833c3be01ee0847b48ff1782f06214c.chrom.sizes
             asset_parents: []
-            archive_digest: 9b5cc0761de35ede53af7c141b560bba
+            archive_digest: 9ae9a16b4c75396a1f1e86f5daab403e
             archive_size: 6.0MB
             asset_size: 20.3MB
             asset_children: []
-            legacy_archive_digest: 6d417f7271892aa335c93e82a5151c1c
+            legacy_archive_digest: a703c4869da9bd9ebbdcb5af39ea764b
         default_tag: default
     aliases: ['Micromonas_sp_RCC299_JGI_3_0']
     genome_description: Micromonas sp RCC299 JGI 3.0
@@ -1174,7 +1339,11 @@ genomes:
               fai: b8baa0a86215cf87b1b547af738dc2cc4392bb305ef5a627.fa.fai
               chrom_sizes: b8baa0a86215cf87b1b547af738dc2cc4392bb305ef5a627.chrom.sizes
             asset_parents: []
-            archive_digest: 8fc86b70fb621524adfd13f1260f2f0c
+            archive_digest: 39aa85f95ac0eb40f1765aea3adb1834
+            archive_size: 59.8MB
+            asset_size: 205.5MB
+            asset_children: []
+            legacy_archive_digest: dd4c4542c39966635aaa0513fbdac56b
         default_tag: default
     aliases: ['Selaginella_moellendorffii__JGI_v1_0']
     genome_description: Selaginella moellendorffii  JGI v1.0
@@ -1191,6 +1360,11 @@ genomes:
               fai: fb25fbc81ee9a512bde6be1faaf5ae4878602994d594394c.fa.fai
               chrom_sizes: fb25fbc81ee9a512bde6be1faaf5ae4878602994d594394c.chrom.sizes
             asset_parents: []
+            archive_digest: 30c9a510cc15086cdab602d480437673
+            archive_size: 63.1MB
+            asset_size: 242.2MB
+            asset_children: []
+            legacy_archive_digest: 0ffadab9b522dc08fa295492cc68d2bc
         default_tag: default
     aliases: ['Tarenaya_hassleriana__RefSeq_v1']
     genome_description: Tarenaya hassleriana  RefSeq v1
@@ -1207,11 +1381,11 @@ genomes:
               fai: 23643c69617bfccd482f236bd11122f9e347ed9d16f1a563.fa.fai
               chrom_sizes: 23643c69617bfccd482f236bd11122f9e347ed9d16f1a563.chrom.sizes
             asset_parents: []
-            archive_digest: 5502f55cf92c209d9b903cb53deec4ce
+            archive_digest: 50c6ac1e47fb49fc39c91bd0fecbfa34
             archive_size: 95.0MB
             asset_size: 323.7MB
             asset_children: []
-            legacy_archive_digest: 341dd3359d4a99d45553cad6e2e2c586
+            legacy_archive_digest: deb9a19630d9b2c8dcd06de92967367c
         default_tag: default
     aliases: ['Zoysia_japonica_ssp__nagirizaki_Zoysia_Genome_Database_v1_1']
     genome_description: Zoysia japonica ssp. nagirizaki Zoysia Genome Database v1.1
@@ -1228,7 +1402,11 @@ genomes:
               fai: 7940e9f0bcfc349fdd9fc5ef1c22561c9379a91250e2d069.fa.fai
               chrom_sizes: 7940e9f0bcfc349fdd9fc5ef1c22561c9379a91250e2d069.chrom.sizes
             asset_parents: []
-            archive_digest: 1c527541a129a57637532a1d4904bf71
+            archive_digest: 02bdb26460bc815292db19a21f38d073
+            archive_size: 121.7MB
+            asset_size: 416.9MB
+            asset_children: []
+            legacy_archive_digest: 1fab541d2dce87b8eddaecd4117a960d
         default_tag: default
     aliases: ['Oryza_sativa_ssp__indica_9311_BGF_2005']
     genome_description: Oryza sativa ssp. indica 9311_BGF_2005
@@ -1245,11 +1423,11 @@ genomes:
               fai: 6ec2948ecbb759ed21627852231a987f992b1e36e35de53a.fa.fai
               chrom_sizes: 6ec2948ecbb759ed21627852231a987f992b1e36e35de53a.chrom.sizes
             asset_parents: []
-            archive_digest: b299454633dc0762aaa1e09d1b6ec532
+            archive_digest: 45118b2e97667bbb5baba76cf2813ff3
             archive_size: 95.4MB
             asset_size: 325.1MB
             asset_children: []
-            legacy_archive_digest: f55639410b30e3193639fef233a556fe
+            legacy_archive_digest: 8d63bd2931b83ab1403e707d277d1d24
         default_tag: default
     aliases: ['Corchorus_olitorius__GenBank_v1_0']
     genome_description: Corchorus olitorius  GenBank v1.0
@@ -1266,11 +1444,11 @@ genomes:
               fai: 7a086153d3d05d9bbc1201a739dd06b26c34ef47c36c63df.fa.fai
               chrom_sizes: 7a086153d3d05d9bbc1201a739dd06b26c34ef47c36c63df.chrom.sizes
             asset_parents: []
-            archive_digest: f6f904230e2ca71ccc16efc94559bf4c
+            archive_digest: c82b0a2c74c9f01992f1850c48256829
             archive_size: 61.7MB
             asset_size: 218.2MB
             asset_children: []
-            legacy_archive_digest: 81606a2a334e90acf0247f7445e4cb20
+            legacy_archive_digest: c2e50751fabc1be8d361bc997fc5c360
         default_tag: default
     aliases: ['Marchantia_polymorpha__JGI_v3_1']
     genome_description: Marchantia polymorpha  JGI v3.1
@@ -1287,7 +1465,11 @@ genomes:
               fai: 9370d51cc11f3e943ae662e05ec2b4b189225f3be66000bf.fa.fai
               chrom_sizes: 9370d51cc11f3e943ae662e05ec2b4b189225f3be66000bf.chrom.sizes
             asset_parents: []
-            archive_digest: 25fb4a10b33d55cd6d38e6be8d6b91ed
+            archive_digest: cf0d8777fd58cada2085716e627add57
+            archive_size: 55.8MB
+            asset_size: 189.3MB
+            asset_children: []
+            legacy_archive_digest: 9664a8ed4398eea595f9bed424844dff
         default_tag: default
     aliases: ['Ectocarpus_siliculosus_Ghent_University']
     genome_description: Ectocarpus siliculosus Ghent University
@@ -1304,7 +1486,11 @@ genomes:
               fai: 85da6cdfc0c010859f34da9c742221889f640bdf3332caf3.fa.fai
               chrom_sizes: 85da6cdfc0c010859f34da9c742221889f640bdf3332caf3.chrom.sizes
             asset_parents: []
-            archive_digest: 8d47a74649d178bdd2e95618985541c0
+            archive_digest: 855b72107e9d66c9c510c4ef8fbf3b6a
+            archive_size: 270.2MB
+            asset_size: 940.1MB
+            asset_children: []
+            legacy_archive_digest: 7b24b33d7a6b43021adb31b0cf335e13
         default_tag: default
     aliases: ['Glycine_max_JGI_Glyma1_1_annotation_of_the_chromosome-based_Glyma1_assembly']
     genome_description: Glycine max JGI Glyma1.1 annotation of the chromosome-based Glyma1 assembly
@@ -1321,7 +1507,11 @@ genomes:
               fai: 1342fe0b5366064be512ce42495c84a595654d23ad6e1104.fa.fai
               chrom_sizes: 1342fe0b5366064be512ce42495c84a595654d23ad6e1104.chrom.sizes
             asset_parents: []
-            archive_digest: 42dfabf75a226f8a83b21a7e7c9269eb
+            archive_digest: fac104ee07879e77c497e4f42e560314
+            archive_size: 55.9MB
+            asset_size: 196.4MB
+            asset_children: []
+            legacy_archive_digest: 562136f04d644e15a5a3d64c437ff9aa
         default_tag: default
     aliases: ['Cucumis_sativus_L___JGI_v1_0']
     genome_description: Cucumis sativus L.  JGI v1.0
@@ -1338,7 +1528,11 @@ genomes:
               fai: 4564acc86749fb474979f195f695e89146b41044cb3b1e97.fa.fai
               chrom_sizes: 4564acc86749fb474979f195f695e89146b41044cb3b1e97.chrom.sizes
             asset_parents: []
-            archive_digest: b43c305d057fd3a1dea30eedef6a51e6
+            archive_digest: b57113b72b949f411e10897dc2dad048
+            archive_size: 270.2MB
+            asset_size: 944.9MB
+            asset_children: []
+            legacy_archive_digest: 9be795d1ce485c8253099fb694413922
         default_tag: default
     aliases: ['Glycine_max__JGI_Wm82_a2_v1']
     genome_description: Glycine max  JGI Wm82.a2.v1
@@ -1355,7 +1549,11 @@ genomes:
               fai: 39d214f28ba2161abd27e6a41ac2ae945ad823accfad9415.fa.fai
               chrom_sizes: 39d214f28ba2161abd27e6a41ac2ae945ad823accfad9415.chrom.sizes
             asset_parents: []
-            archive_digest: fe6ac66a941dda4d7908a715cf7e6c98
+            archive_digest: ab756a8ec20b37b4ac1fdb76dae5b8d1
+            archive_size: 150.1MB
+            asset_size: 549.6MB
+            asset_children: []
+            legacy_archive_digest: 7d7c225538ed5c0db57a619f7b0c5d41
         default_tag: default
     aliases: ['Beta_vulgaris__RefBeet_v1_2']
     genome_description: Beta vulgaris  RefBeet v1.2
@@ -1372,7 +1570,11 @@ genomes:
               fai: 243de8bc6f991557ce5c60b77e713ce1a8ecc3b4edc4363e.fa.fai
               chrom_sizes: 243de8bc6f991557ce5c60b77e713ce1a8ecc3b4edc4363e.chrom.sizes
             asset_parents: []
-            archive_digest: 0c3295c895072c7f5aa0d9e4567cc158
+            archive_digest: 597207383420491588fb6aa716aadbb4
+            archive_size: 129.0MB
+            asset_size: 473.9MB
+            asset_children: []
+            legacy_archive_digest: abb3012325a06c26dbbc34b81750fa08
         default_tag: default
     aliases: ['Brassica_oleracea__Ensembl_Genomes_v2_1']
     genome_description: Brassica oleracea  Ensembl Genomes v2.1
@@ -1389,11 +1591,11 @@ genomes:
               fai: e8c94896698d3163b51f95a4d79a10c30217896b64ab818e.fa.fai
               chrom_sizes: e8c94896698d3163b51f95a4d79a10c30217896b64ab818e.chrom.sizes
             asset_parents: []
-            archive_digest: 79bf459b30034e2a25d7f3d1e47485c6
+            archive_digest: d36880adbe8d50b5fa289fc0fa243ac7
             archive_size: 127.6MB
             asset_size: 517.5MB
             asset_children: []
-            legacy_archive_digest: b3fab304b17426eea77fe334bb7961af
+            legacy_archive_digest: c13c576996b2b31d63b7bb6b93a5720c
         default_tag: default
     aliases: ['Manihot_esculenta_Cassava4']
     genome_description: Manihot esculenta Cassava4
@@ -1410,7 +1612,11 @@ genomes:
               fai: 8896c6055e807561a37a5a7b95ff6b1eebaff8ff87a1a8ba.fa.fai
               chrom_sizes: 8896c6055e807561a37a5a7b95ff6b1eebaff8ff87a1a8ba.chrom.sizes
             asset_parents: []
-            archive_digest: bbdc9e2f271c7c762d8f91bc66f89238
+            archive_digest: 3bc5746ce28d1c7267c4923001e4ad88
+            archive_size: 323.9MB
+            asset_size: 1.1GB
+            asset_children: []
+            legacy_archive_digest: 726ac1bb7ede97e7f0e251d860e20f66
         default_tag: default
     aliases: ['Asparagus_officinalis_v1_1']
     genome_description: Asparagus officinalis v1.1
@@ -1427,7 +1633,11 @@ genomes:
               fai: 0b4d487cce53921b38e8d1e2a922076d2e2efb01ce6fdefb.fa.fai
               chrom_sizes: 0b4d487cce53921b38e8d1e2a922076d2e2efb01ce6fdefb.chrom.sizes
             asset_parents: []
-            archive_digest: 106087dca41a90917a47ec030ace8c22
+            archive_digest: abf0ef1c78c22a49b70ae7ef621a9994
+            archive_size: 356.7MB
+            asset_size: 1.3GB
+            asset_children: []
+            legacy_archive_digest: 4cf3eed76fc0d5b7cb23721191ce5250
         default_tag: default
     aliases: ['Arachis_ipaensis__Peanut_Base_v1_0']
     genome_description: Arachis ipaensis  Peanut Base v1.0
@@ -1444,11 +1654,11 @@ genomes:
               fai: d8f55d9ccdf3ec851bb963e382432db70a2700632a8fdfda.fa.fai
               chrom_sizes: d8f55d9ccdf3ec851bb963e382432db70a2700632a8fdfda.chrom.sizes
             asset_parents: []
-            archive_digest: b98df04ea4f76a4e3124ecacec2569fd
+            archive_digest: a300808b3fc2a22152aad39ef7843fee
             archive_size: 347.4MB
             asset_size: 1.2GB
             asset_children: []
-            legacy_archive_digest: bfd426ee96d7fdf3eb4340d9f9fa6818
+            legacy_archive_digest: 7e1e6be5ddcc8c8641a010c58bec60d9
         default_tag: default
     aliases: ['Petunia_axillaris__Sol_Genomics_v1_6_2']
     genome_description: Petunia axillaris  Sol Genomics v1.6.2
@@ -1465,11 +1675,11 @@ genomes:
               fai: 2c8f45a3775351cebfb338a6db2edec07f8c3533afaafe9f.fa.fai
               chrom_sizes: 2c8f45a3775351cebfb338a6db2edec07f8c3533afaafe9f.chrom.sizes
             asset_parents: []
-            archive_digest: b2d2dc7eb3e684e9c3988bae0c41f06b
+            archive_digest: 0a185459a08f9581d567ae768127a1ea
             archive_size: 130.4MB
             asset_size: 463.8MB
             asset_children: []
-            legacy_archive_digest: d7c6ebb634000c99f5a1fecd01742c25
+            legacy_archive_digest: b08fec3c556bd7136d31d640455d48c2
         default_tag: default
     aliases: ['Physcomitrella_patens_Phytozome_9_1_v1_6']
     genome_description: Physcomitrella patens Phytozome 9.1 (v1.6)
@@ -1486,7 +1696,11 @@ genomes:
               fai: 834180d647e3470353f02fdfd86011d0926fddb15cebab9f.fa.fai
               chrom_sizes: 834180d647e3470353f02fdfd86011d0926fddb15cebab9f.chrom.sizes
             asset_parents: []
-            archive_digest: 6a7c7fe3553bad3d5e63837445c7f56b
+            archive_digest: 5bdbf7a75cbdf29b08653d8e41fff08d
+            archive_size: 109.3MB
+            asset_size: 407.3MB
+            asset_children: []
+            legacy_archive_digest: ec17f7377aa8b0a5181f115dacc8914c
         default_tag: default
     aliases: ['Daucus_carota__JGI_v2_0']
     genome_description: Daucus carota  JGI v2.0
@@ -1503,11 +1717,11 @@ genomes:
               fai: c0cc9804e43d0e05b1266f52a29e701958975ec136ef863f.fa.fai
               chrom_sizes: c0cc9804e43d0e05b1266f52a29e701958975ec136ef863f.chrom.sizes
             asset_parents: []
-            archive_digest: 5d1aaabba7818579a776fb8d29e9d3ff
+            archive_digest: 1d18fd4216789813f040de3de869c084
             archive_size: 208.3MB
             asset_size: 1.0GB
             asset_children: []
-            legacy_archive_digest: d877f95093b217abfce5f06bdb82d3c7
+            legacy_archive_digest: 736cf1c5ec56439bda15ffb264ce7746
         default_tag: default
     aliases: ['Nelumbo_nucifera__LOTUS-DB_v1_1']
     genome_description: Nelumbo nucifera  LOTUS-DB v1.1
@@ -1524,7 +1738,11 @@ genomes:
               fai: 7df6d879305963de79c97999a097885a0d7d19fea6461ec1.fa.fai
               chrom_sizes: 7df6d879305963de79c97999a097885a0d7d19fea6461ec1.chrom.sizes
             asset_parents: []
-            archive_digest: 559bff1c517e4484dbad237d8a4cfef5
+            archive_digest: 9efb84769df0b5fde8b78fb59e921669
+            archive_size: 59.7MB
+            asset_size: 205.1MB
+            asset_children: []
+            legacy_archive_digest: 65626e72af773c1c36954a8a18eb7393
         default_tag: default
     aliases: ['Selaginella_moellendorffii_NCBIr100']
     genome_description: Selaginella moellendorffii NCBIr100
@@ -1541,7 +1759,11 @@ genomes:
               fai: c87bb2e01048f495849df664e6ec0ceb02f06aeef423b7b4.fa.fai
               chrom_sizes: c87bb2e01048f495849df664e6ec0ceb02f06aeef423b7b4.chrom.sizes
             asset_parents: []
-            archive_digest: feae3dc40cab05d1cb4811b9b9257bef
+            archive_digest: 79a2a5f0460818e64c1922340be78db2
+            archive_size: 317.3MB
+            asset_size: 1.5GB
+            asset_children: []
+            legacy_archive_digest: 889cf03ea72855fad2abc5a3f9fd4495
         default_tag: default
     aliases: ['Elaeis_guineensis_NCBI_Genome_v1_0']
     genome_description: Elaeis guineensis NCBI Genome v1.0
@@ -1558,7 +1780,11 @@ genomes:
               fai: c0d892efbd8f2deeda7cbf051f847c7dbef77b035a3ecb64.fa.fai
               chrom_sizes: c0d892efbd8f2deeda7cbf051f847c7dbef77b035a3ecb64.chrom.sizes
             asset_parents: []
-            archive_digest: dbd3419b519a5c2a5227155bb5292fdf
+            archive_digest: cbc7ecf26ba8a4b731cac662ff78b7d3
+            archive_size: 110.7MB
+            asset_size: 364.9MB
+            asset_children: []
+            legacy_archive_digest: 8b8f2c618c06c5f682175f715d297d50
         default_tag: default
     aliases: ['Oryza_sativa_ssp__japonica_MSU_RGAP_7']
     genome_description: Oryza sativa ssp. japonica MSU RGAP 7
@@ -1575,7 +1801,11 @@ genomes:
               fai: 3514f35435e4e2adb1f9bd8852ecc80ef6e7a4a811fd299c.fa.fai
               chrom_sizes: 3514f35435e4e2adb1f9bd8852ecc80ef6e7a4a811fd299c.chrom.sizes
             asset_parents: []
-            archive_digest: 977f78da23c7b41ab9db49bee7ad3526
+            archive_digest: c888a396e5bfafafd553c156b91c5f78
+            archive_size: 94.4MB
+            asset_size: 339.7MB
+            asset_children: []
+            legacy_archive_digest: 79176727be5d1f3bfe398e1030bf8765
         default_tag: default
     aliases: ['Ricinus_communis__JGI_v0_1']
     genome_description: Ricinus communis  JGI v0.1
@@ -1592,11 +1822,11 @@ genomes:
               fai: 1e76bca0f5ed1f6af9b78333cfd974de9cbc93bd238aacd0.fa.fai
               chrom_sizes: 1e76bca0f5ed1f6af9b78333cfd974de9cbc93bd238aacd0.chrom.sizes
             asset_parents: []
-            archive_digest: 9dd1719dba9684f57bc2cc7073965ee3
+            archive_digest: c0bb8ad3bf86b8434446bb70a125ffd9
             archive_size: 133.4MB
             asset_size: 457.0MB
             asset_children: []
-            legacy_archive_digest: 563b84912a6ae3c3728121d13c48788b
+            legacy_archive_digest: 982746a6796288fa7679b128fac52001
         default_tag: default
     aliases: ['Physcomitrella_patens__JGI_v3_3']
     genome_description: Physcomitrella patens  JGI v3.3
@@ -1613,7 +1843,11 @@ genomes:
               fai: 6e0b195ac8e649a0a9e5bcd10c494a09e24bcc118de48801.fa.fai
               chrom_sizes: 6e0b195ac8e649a0a9e5bcd10c494a09e24bcc118de48801.chrom.sizes
             asset_parents: []
-            archive_digest: 9c5eee578ac4417e57061846204a489e
+            archive_digest: e282845695f3c62a6fb0452aeb2e0089
+            archive_size: 4.0MB
+            asset_size: 13.1MB
+            asset_children: []
+            legacy_archive_digest: fd708e91beffb9c832057eae91574d5a
         default_tag: default
     aliases: ['Picochlorum_sp__SENEW3_SE3_Rutgers_University_1_0']
     genome_description: Picochlorum sp. SENEW3 (SE3) Rutgers University 1.0
@@ -1630,7 +1864,11 @@ genomes:
               fai: d85b8f29cf28b3fd90cc6bd0d25f57ddfe639bdbd1b1e2ac.fa.fai
               chrom_sizes: d85b8f29cf28b3fd90cc6bd0d25f57ddfe639bdbd1b1e2ac.chrom.sizes
             asset_parents: []
-            archive_digest: 2407b2fd4e8f045201694831ede9daa6
+            archive_digest: b9b285de2e6ddf5cc272e70b2d627c54
+            archive_size: 197.0MB
+            asset_size: 707.0MB
+            asset_children: []
+            legacy_archive_digest: 15b0c987238fb0957eb1a0aa88266319
         default_tag: default
     aliases: ['Sorghum_bicolor_JGI_v3_1']
     genome_description: Sorghum bicolor JGI v3.1
@@ -1647,7 +1885,11 @@ genomes:
               fai: 29a88f49c7143ea925b62e5fc17be0c4c5b16d4e0800fccc.fa.fai
               chrom_sizes: 29a88f49c7143ea925b62e5fc17be0c4c5b16d4e0800fccc.chrom.sizes
             asset_parents: []
-            archive_digest: b24b3fb464da78314ac2b6a0345b9767
+            archive_digest: 25903d1664c203fc7167f0f256a33ab6
+            archive_size: 212.2MB
+            asset_size: 795.6MB
+            asset_children: []
+            legacy_archive_digest: c172a084b15625ab48673d256343c5ee
         default_tag: default
     aliases: ['Solanum_lycopersicum__Sol_Genomics_itag2_4']
     genome_description: Solanum lycopersicum  Sol Genomics itag2.4
@@ -1664,7 +1906,11 @@ genomes:
               fai: 69acef291f23f159ac35af0c3ba03f39da81e1c18ded2c97.fa.fai
               chrom_sizes: 69acef291f23f159ac35af0c3ba03f39da81e1c18ded2c97.chrom.sizes
             asset_parents: []
-            archive_digest: 0dde0403e6f713083eb2f26728aeedec
+            archive_digest: 52ada6cf305707b3df950263c0a79aea
+            archive_size: 4.2MB
+            asset_size: 13.8MB
+            asset_children: []
+            legacy_archive_digest: e7ce475e823a2eb7914179b745382685
         default_tag: default
     aliases: ['Picochlorum_RCC4223__ORCAE']
     genome_description: Picochlorum_RCC4223  ORCAE
@@ -1681,7 +1927,11 @@ genomes:
               fai: 01c8bb31d74078c221f9a8cd395bcc2a0d37fe5b5be0ed84.fa.fai
               chrom_sizes: 01c8bb31d74078c221f9a8cd395bcc2a0d37fe5b5be0ed84.chrom.sizes
             asset_parents: []
-            archive_digest: 8db1e30736c5c09b5196b0fd62fb72db
+            archive_digest: 7bc39780a195e2e4231692016395682c
+            archive_size: 95.9MB
+            asset_size: 341.1MB
+            asset_children: []
+            legacy_archive_digest: 8b55efb2011e6467b91e02d5311aba9b
         default_tag: default
     aliases: ['Ricinus_communis_JCVI_1_0']
     genome_description: Ricinus communis JCVI 1.0
@@ -1698,7 +1948,11 @@ genomes:
               fai: e8be2b89269eae7bd2d06746228f17babf69d67bb6aa4346.fa.fai
               chrom_sizes: e8be2b89269eae7bd2d06746228f17babf69d67bb6aa4346.chrom.sizes
             asset_parents: []
-            archive_digest: d8ba59dfd5cc6fb9399c2b40112c357f
+            archive_digest: 23e88185948c23e7b4bbe9587f5b833f
+            archive_size: 70.1MB
+            asset_size: 234.9MB
+            asset_children: []
+            legacy_archive_digest: 1289f6c8caee1d46b214d7f31faa8bd0
         default_tag: default
     aliases: ['Oropetium_thomaeum_JGI_v1_0']
     genome_description: Oropetium thomaeum JGI v1.0
@@ -1715,11 +1969,11 @@ genomes:
               fai: bfcde5bf37c156d5015b99d01d5261ced78768a05aee6a8b.fa.fai
               chrom_sizes: bfcde5bf37c156d5015b99d01d5261ced78768a05aee6a8b.chrom.sizes
             asset_parents: []
-            archive_digest: d4f6fa8fdd56151fcd48523f18df0df6
+            archive_digest: 57ca69b13bcf37f9dd0379ad1d3b4222
             archive_size: 170.5MB
             asset_size: 702.3MB
             asset_children: []
-            legacy_archive_digest: 807e37d2c74cfc3e104d4512e418013d
+            legacy_archive_digest: 3b99ed96da77ecdd41aeab075ed956a7
         default_tag: default
     aliases: ['Solanum_tuberosum_ITAG_001']
     genome_description: Solanum tuberosum ITAG 001
@@ -1736,11 +1990,11 @@ genomes:
               fai: 4fa4d50de8b6ea848a04175bd26122e6d8bf75c69fe2699f.fa.fai
               chrom_sizes: 4fa4d50de8b6ea848a04175bd26122e6d8bf75c69fe2699f.chrom.sizes
             asset_parents: []
-            archive_digest: 3bea9504f85045f30b422252bdafc425
+            archive_digest: 04aed63ac0298fe6d1016b812a874755
             archive_size: 606.7MB
             asset_size: 1.9GB
             asset_children: []
-            legacy_archive_digest: 64189d9dd5d02c92357559d164466c7c
+            legacy_archive_digest: 4ee54bebd12eefb1a7671d796fb66324
         default_tag: default
     aliases: ['Zea_mays_B73_5b_60']
     genome_description: Zea mays B73 5b.60
@@ -1757,11 +2011,11 @@ genomes:
               fai: 3fb7a899abc9dec2ba795e1ab7477503c80fdb0552a8e1ea.fa.fai
               chrom_sizes: 3fb7a899abc9dec2ba795e1ab7477503c80fdb0552a8e1ea.chrom.sizes
             asset_parents: []
-            archive_digest: c97c3abbad131f0e30602313699c287a
+            archive_digest: c45cd558df523d8f6bce1a7ebc80a5ac
             archive_size: 135.8MB
             asset_size: 550.3MB
             asset_children: []
-            legacy_archive_digest: 9db7959946a6e1b615e21a3d0b4960a6
+            legacy_archive_digest: dae2926bbc207857317c22d0b2be9544
         default_tag: default
     aliases: ['Coffea_canephora__Coffee_Genome_Hub_v1']
     genome_description: Coffea canephora  Coffee Genome Hub v1
@@ -1778,11 +2032,11 @@ genomes:
               fai: 8c7d6efaebcb490a96beae6f73fe4e9d71b1c9ad334b30f2.fa.fai
               chrom_sizes: 8c7d6efaebcb490a96beae6f73fe4e9d71b1c9ad334b30f2.chrom.sizes
             asset_parents: []
-            archive_digest: 00c49aa33c83b064c9cef003796421f3
+            archive_digest: 183cd08dea5f9527ce3a99dd6f2e3186
             archive_size: 93.4MB
             asset_size: 343.0MB
             asset_children: []
-            legacy_archive_digest: f60e44290add33b3f85863313135542e
+            legacy_archive_digest: 2b3539e1cfff161a5739cc45adfb6515
         default_tag: default
     aliases: ['Citrullus_lanatus__Cucurbit_Genomics_Database_v1_0']
     genome_description: Citrullus lanatus  Cucurbit Genomics Database v1.0
@@ -1799,11 +2053,11 @@ genomes:
               fai: 902626177f8b30f1523088c58962fe8dc38085f11a636ac7.fa.fai
               chrom_sizes: 902626177f8b30f1523088c58962fe8dc38085f11a636ac7.chrom.sizes
             asset_parents: []
-            archive_digest: da90f6ad31f332871b6ccea6715ee68b
+            archive_digest: 27afb510ed660bce3f2c219828fcef98
             archive_size: 98.2MB
             asset_size: 365.0MB
             asset_children: []
-            legacy_archive_digest: b54bda16dc587581e47fe7fd7f950059
+            legacy_archive_digest: 8886cf3554fba2f731fffa2ce1aea16c
         default_tag: default
     aliases: ['Cucumis_melo__Melonomics_v3_5']
     genome_description: Cucumis melo  Melonomics v3.5
@@ -1820,7 +2074,11 @@ genomes:
               fai: 32de476952a893f76708defdd83e2fb5beec66797d303c67.fa.fai
               chrom_sizes: 32de476952a893f76708defdd83e2fb5beec66797d303c67.chrom.sizes
             asset_parents: []
-            archive_digest: 07faf80d924205b2f01a11d7d19fe564
+            archive_digest: 840d6d377d1b61244095b231e5f726c3
+            archive_size: 539.4MB
+            asset_size: 1.8GB
+            asset_children: []
+            legacy_archive_digest: 9cb59017a024214821ba06f62ac9ec51
         default_tag: default
     aliases: ['Calamus_simplicifolius_v1_0']
     genome_description: Calamus simplicifolius v1.0
@@ -1837,7 +2095,11 @@ genomes:
               fai: a6c0302daffea04330b64089fbc9ff2ae37e1671e6014512.fa.fai
               chrom_sizes: a6c0302daffea04330b64089fbc9ff2ae37e1671e6014512.chrom.sizes
             asset_parents: []
-            archive_digest: fde104d5772860bab6c1a52c77523290
+            archive_digest: 4fbb647c3df70e70d52919ce1b1926d6
+            archive_size: 79.2MB
+            asset_size: 276.9MB
+            asset_children: []
+            legacy_archive_digest: fe38b2c591a8bd0d69e812d35b5fa569
         default_tag: default
     aliases: ['Brassica_rapa_Annotation_v1_2_on_assembly_v1_1_Phytozome_9_1']
     genome_description: Brassica rapa Annotation v1.2 on assembly v1.1 (Phytozome 9.1)
@@ -1854,7 +2116,11 @@ genomes:
               fai: 1084b123b1548026bbf123d13e6786f145b8fbe432fbd572.fa.fai
               chrom_sizes: 1084b123b1548026bbf123d13e6786f145b8fbe432fbd572.chrom.sizes
             asset_parents: []
-            archive_digest: f7b8d9ff237aee267f3613880918d0b6
+            archive_digest: 3b5a0660892d920fd1be9682dd4c39b8
+            archive_size: 417.2MB
+            asset_size: 3.8GB
+            asset_children: []
+            legacy_archive_digest: a48a1c64212f6f7c419a173db4fa68f0
         default_tag: default
     aliases: ['Hordeum_vulgare_Ensembl_Genomes_ASM32608v1']
     genome_description: Hordeum vulgare Ensembl Genomes ASM32608v1
@@ -1871,7 +2137,11 @@ genomes:
               fai: 0cded27d0804e9054ac0972bd2e0e2ade507e43a663327a6.fa.fai
               chrom_sizes: 0cded27d0804e9054ac0972bd2e0e2ade507e43a663327a6.chrom.sizes
             asset_parents: []
-            archive_digest: 9f57c840ba5aefc3a2d98660e9e10e8d
+            archive_digest: 26e4aa097c9fe1ed20bc47197a8c7394
+            archive_size: 192.8MB
+            asset_size: 682.6MB
+            asset_children: []
+            legacy_archive_digest: 35b7f807d8a0d9a377e38723775faebd
         default_tag: default
     aliases: ['Amborella_trichopoda__JGI_v1_0']
     genome_description: Amborella trichopoda  JGI v1.0
@@ -1888,7 +2158,11 @@ genomes:
               fai: 8c743e254e912ae28f0ea085d85b948e9b94eec295bdf476.fa.fai
               chrom_sizes: 8c743e254e912ae28f0ea085d85b948e9b94eec295bdf476.chrom.sizes
             asset_parents: []
-            archive_digest: 0b5b1fbd8606a8ad6725afb95c50a3b4
+            archive_digest: 909a0704d30a2a9714d146933f257a23
+            archive_size: 54.7MB
+            asset_size: 260.4MB
+            asset_children: []
+            legacy_archive_digest: d533cb3684f944c47c1a7b0b4d9e9d09
         default_tag: default
     aliases: ['Lotus_japonicus_Kazusa_2_5']
     genome_description: Lotus japonicus Kazusa 2.5
@@ -1905,7 +2179,11 @@ genomes:
               fai: c45cb418aab15833a00b5f9a30cea801ab6245071649cb28.fa.fai
               chrom_sizes: c45cb418aab15833a00b5f9a30cea801ab6245071649cb28.chrom.sizes
             asset_parents: []
-            archive_digest: 3914b26c76822dd075a13ebf48abc556
+            archive_digest: f91be467e65da8d2edb668e0c9b0e180
+            archive_size: 83.7MB
+            asset_size: 687.6MB
+            asset_children: []
+            legacy_archive_digest: 969092db7b69fe66f637310922972816
         default_tag: default
     aliases: ['Amborella_trichopoda_Amborella_V1_0']
     genome_description: Amborella trichopoda Amborella V1.0
@@ -1922,11 +2200,11 @@ genomes:
               fai: 21128d347ccf4c4f5b406ca5958e51e1913305425a999e43.fa.fai
               chrom_sizes: 21128d347ccf4c4f5b406ca5958e51e1913305425a999e43.chrom.sizes
             asset_parents: []
-            archive_digest: 01f25754599633fff63d29b1e9424f83
+            archive_digest: 8ea7df10a3beb84f11ee327f5a5c5745
             archive_size: 164.7MB
             asset_size: 594.2MB
             asset_children: []
-            legacy_archive_digest: cf274b8f5c4e2000f8d0b3cf495cd684
+            legacy_archive_digest: 991a4952d85d7af5a34f368c7bbdc694
         default_tag: default
     aliases: ['Cajanus_cajan__Penguin_Genomics_v5_0']
     genome_description: Cajanus cajan  Penguin Genomics v5.0
@@ -1943,7 +2221,11 @@ genomes:
               fai: 6ed4fd4aceb648e63b8f2689b0888dc31e8943e1574e0d4c.fa.fai
               chrom_sizes: 6ed4fd4aceb648e63b8f2689b0888dc31e8943e1574e0d4c.chrom.sizes
             asset_parents: []
-            archive_digest: 7e8ea53b8a299a2c92534c4b1780db45
+            archive_digest: ef111a17afba04d91fefda8400c90a15
+            archive_size: 74.7MB
+            asset_size: 546.3MB
+            asset_children: []
+            legacy_archive_digest: 05e43bb52d06ed7e075118a40fa6cad4
         default_tag: default
     aliases: ['Beta_vulgaris_RefBeet_1_1']
     genome_description: Beta vulgaris RefBeet 1.1
@@ -1960,7 +2242,11 @@ genomes:
               fai: 4ad31ecfa345dc0837ce4f683a37f94ba9ab7506a25708a7.fa.fai
               chrom_sizes: 4ad31ecfa345dc0837ce4f683a37f94ba9ab7506a25708a7.chrom.sizes
             asset_parents: []
-            archive_digest: 8ebe2a8187deb40030b7289fe0ef56a9
+            archive_digest: 4787ee0519b14f7a8674ee5562e1c1d7
+            archive_size: 8.0MB
+            asset_size: 26.6MB
+            asset_children: []
+            legacy_archive_digest: 7a0bd5838ffe729855aa500ad517a883
         default_tag: default
     aliases: ['Phaeodactylum_tricornutum_ASM15095v2']
     genome_description: Phaeodactylum tricornutum ASM15095v2
@@ -1977,7 +2263,11 @@ genomes:
               fai: 096bd7519f078a6a5c0fca459980a603ec6086596bba602b.fa.fai
               chrom_sizes: 096bd7519f078a6a5c0fca459980a603ec6086596bba602b.chrom.sizes
             asset_parents: []
-            archive_digest: b8db83d54c52ad95997a8faa763a4814
+            archive_digest: 638132a5babc49ca9807dcbc04ab8927
+            archive_size: 120.0MB
+            asset_size: 419.3MB
+            asset_children: []
+            legacy_archive_digest: 6bcebe14d89ca1bd41b425c9b9d23754
         default_tag: default
     aliases: ['Populus_trichocarpa__JGI_v3_1']
     genome_description: Populus trichocarpa  JGI v3.1
@@ -1994,7 +2284,11 @@ genomes:
               fai: a4b936d723960f3623315c50fba6228d281068fe25e31657.fa.fai
               chrom_sizes: a4b936d723960f3623315c50fba6228d281068fe25e31657.chrom.sizes
             asset_parents: []
-            archive_digest: 45b658151f9f649bebd8b051b7a65ef4
+            archive_digest: c738f7ca2b5615de2456f0367c4cb96c
+            archive_size: 205.9MB
+            asset_size: 715.2MB
+            asset_children: []
+            legacy_archive_digest: 168de39e2becb39c92e07228603c1b8f
         default_tag: default
     aliases: ['Sorghum_bicolor_JGI_1_4']
     genome_description: Sorghum bicolor JGI 1.4
@@ -2011,11 +2305,11 @@ genomes:
               fai: c212f53b6730ec30bcbbe7c879e2fa861ee85317c2ef12ff.fa.fai
               chrom_sizes: c212f53b6730ec30bcbbe7c879e2fa861ee85317c2ef12ff.chrom.sizes
             asset_parents: []
-            archive_digest: d6f4a184d271de722d43dd4970f813d3
+            archive_digest: cfe40b8ee72d803c6b65e22b33f55625
             archive_size: 293.2MB
             asset_size: 1.0GB
             asset_children: []
-            legacy_archive_digest: fb1cb7253eaafeb32e352f8638a3ec31
+            legacy_archive_digest: 7a8b197fa15964184d9cb0c5d01a37aa
         default_tag: default
     aliases: ['Phalaenopsis_equestris_Genomics_v1_0']
     genome_description: Phalaenopsis equestris Genomics v1.0
@@ -2032,7 +2326,11 @@ genomes:
               fai: b3014a14314c8af6e4edbc1934719545243355cdcc7803b3.fa.fai
               chrom_sizes: b3014a14314c8af6e4edbc1934719545243355cdcc7803b3.chrom.sizes
             asset_parents: []
-            archive_digest: 5169ffd9d7bc866135b99926409ca0a7
+            archive_digest: 28c9f13c758424254c92640775ddcc6c
+            archive_size: 212.2MB
+            asset_size: 754.9MB
+            asset_children: []
+            legacy_archive_digest: ff166a4f86989bf39cf551dccc150b82
         default_tag: default
     aliases: ['Solanum_lycopersicum_ITAG_2_3']
     genome_description: Solanum lycopersicum ITAG 2.3
@@ -2049,11 +2347,11 @@ genomes:
               fai: ccc07422055094a0f8f9fd14652f3817f0f0cc9c5c0a3e5a.fa.fai
               chrom_sizes: ccc07422055094a0f8f9fd14652f3817f0f0cc9c5c0a3e5a.chrom.sizes
             asset_parents: []
-            archive_digest: 2f48a9c296df39ffdf767155ec466105
+            archive_digest: 847b4c3daa42318601b22153c9fa5515
             archive_size: 131.2MB
             asset_size: 464.7MB
             asset_children: []
-            legacy_archive_digest: 7f1da78419f9e8588d3f3b3c7913c199
+            legacy_archive_digest: 296439c6ca7d4965532d9fe756193c51
         default_tag: default
     aliases: ['Physcomitrella_patens_JGI_assembly_release_v1_1_and_COSMOSS_annotation_v1_6']
     genome_description: Physcomitrella patens JGI assembly release v1.1 and COSMOSS annotation v1.6
@@ -2070,7 +2368,11 @@ genomes:
               fai: 2aa5f7feed38c775fb5ef0b8aceb3ba6c49287fcd2f9888f.fa.fai
               chrom_sizes: 2aa5f7feed38c775fb5ef0b8aceb3ba6c49287fcd2f9888f.chrom.sizes
             asset_parents: []
-            archive_digest: 52f63c05f78117253936391d04bb80b6
+            archive_digest: bb94341f505f531e908e3b8b43543d56
+            archive_size: 63.9MB
+            asset_size: 219.6MB
+            asset_children: []
+            legacy_archive_digest: 9fb4d610cae3eda17863f6ae03d70a9a
         default_tag: default
     aliases: ['Prunus_persica_JGI_release_v1_0']
     genome_description: Prunus persica JGI release v1.0
@@ -2087,11 +2389,11 @@ genomes:
               fai: 54319392e233c8cd3039513db7e0e87985774476ea76cc0d.fa.fai
               chrom_sizes: 54319392e233c8cd3039513db7e0e87985774476ea76cc0d.chrom.sizes
             asset_parents: []
-            archive_digest: 2bfae27eaf7c68e07ac581fbb8e3d054
+            archive_digest: a93700ee685ea9d467b047fca034f54d
             archive_size: 83.4MB
             asset_size: 291.1MB
             asset_children: []
-            legacy_archive_digest: be345430a2853752ee08f9b91f216955
+            legacy_archive_digest: 560700a456e579fb6756ae3c45c3ae89
         default_tag: default
     aliases: ['Citrus_clementina__JGI_v1_0']
     genome_description: Citrus clementina  JGI v1.0
@@ -2108,7 +2410,11 @@ genomes:
               fai: acd8ae5f8fe5e1fffbb2329fd050f0f81c06ce4f6dd97930.fa.fai
               chrom_sizes: acd8ae5f8fe5e1fffbb2329fd050f0f81c06ce4f6dd97930.chrom.sizes
             asset_parents: []
-            archive_digest: ef8c5574627e961a84f7cbd5416c7119
+            archive_digest: c899b5357cd6c1993ca73ba0343886ed
+            archive_size: 458.6MB
+            asset_size: 1.7GB
+            asset_children: []
+            legacy_archive_digest: 8ed432ad3d4fb6fccdfb60618689b98f
         default_tag: default
     aliases: ['Cenchrus_americanus_v1_0']
     genome_description: Cenchrus americanus v1.0
@@ -2125,6 +2431,11 @@ genomes:
               fai: fc33ddeda3b7b2ee914a946ad1e7803f1a08140d2bdcc2f0.fa.fai
               chrom_sizes: fc33ddeda3b7b2ee914a946ad1e7803f1a08140d2bdcc2f0.chrom.sizes
             asset_parents: []
+            archive_digest: 05a6179f43a3270767890702ad3edef8
+            archive_size: 23.5MB
+            asset_size: 77.7MB
+            asset_children: []
+            legacy_archive_digest: 5ff6dded4e10dbf82be213fa5252c606
         default_tag: default
     aliases: ['Utricularia_gibba__CoGe_v4']
     genome_description: Utricularia gibba  CoGe v4
@@ -2141,11 +2452,11 @@ genomes:
               fai: af2a4fdd0ac42353ca7c7aa86c802e937003adc88c5a2f2d.fa.fai
               chrom_sizes: af2a4fdd0ac42353ca7c7aa86c802e937003adc88c5a2f2d.chrom.sizes
             asset_parents: []
-            archive_digest: 393a63520b9e9bd6cce817d8c433622b
+            archive_digest: 43cc1d71b320177936be9832a627cc69
             archive_size: 591.5MB
             asset_size: 2.0GB
             asset_children: []
-            legacy_archive_digest: 728c9597fc453d73582b0778c698b841
+            legacy_archive_digest: ba3782a28913203c6fb4a531f5cab6f0
         default_tag: default
     aliases: ['Zea_mays_B73_AGP_v4_0']
     genome_description: Zea mays B73 AGP v4.0
@@ -2162,7 +2473,11 @@ genomes:
               fai: b126875e1ce2219562c7fccbcdaad9fac432747c597896d4.fa.fai
               chrom_sizes: b126875e1ce2219562c7fccbcdaad9fac432747c597896d4.chrom.sizes
             asset_parents: []
-            archive_digest: eb46f7315902925e0aa921532f653117
+            archive_digest: 3eee15aed6a51c86bb46c12133c77a8a
+            archive_size: 120.1MB
+            asset_size: 419.5MB
+            asset_children: []
+            legacy_archive_digest: ecb5657862adaf6c2516ab6c69fe6357
         default_tag: default
     aliases: ['Populus_trichocarpa_JGI_assembly_release_v3_0_annotation_v3_0']
     genome_description: Populus trichocarpa JGI assembly release v3.0- annotation v3.0
@@ -2179,7 +2494,11 @@ genomes:
               fai: 663affd0938201cf9406a984a25a3017fa1f67e674a745a5.fa.fai
               chrom_sizes: 663affd0938201cf9406a984a25a3017fa1f67e674a745a5.chrom.sizes
             asset_parents: []
-            archive_digest: 503d1a1208cf61264f042c501669c1ac
+            archive_digest: 9a7d2509b445f9777c484a9b4728bad9
+            archive_size: 1.7GB
+            asset_size: 3.0GB
+            asset_children: []
+            legacy_archive_digest: bc30086db6e2aac784d1c926b5b2be6a
         default_tag: default
     aliases: ['Saccharum_spontaneum_v20190103']
     genome_description: Saccharum spontaneum v20190103
@@ -2196,11 +2515,11 @@ genomes:
               fai: 1bea89f755e83232597fe56038a0473c4afe4247e252ae6c.fa.fai
               chrom_sizes: 1bea89f755e83232597fe56038a0473c4afe4247e252ae6c.chrom.sizes
             asset_parents: []
-            archive_digest: 35f49989ae664c9a117997e44f605dc5
+            archive_digest: 437759e5b39f7431fba21f5b1a3e2252
             archive_size: 503.8MB
             asset_size: 2.0GB
             asset_children: []
-            legacy_archive_digest: 3fa8d1d4440ef81e91457102166e5f65
+            legacy_archive_digest: d9cf3a52a63c1108faa62f20b149d8f4
         default_tag: default
     aliases: ['Zea_mays_PH207_v1_0']
     genome_description: Zea mays PH207 v1.0
@@ -2217,7 +2536,11 @@ genomes:
               fai: 97c165c0b7dba2a9fa9eed9a9d4b9a05009461105d64618b.fa.fai
               chrom_sizes: 97c165c0b7dba2a9fa9eed9a9d4b9a05009461105d64618b.chrom.sizes
             asset_parents: []
-            archive_digest: b446f320afd2f4d19dc85ea17ee1e33d
+            archive_digest: 9c42cdae725ae4863903fbe572422513
+            archive_size: 79.9MB
+            asset_size: 310.7MB
+            asset_children: []
+            legacy_archive_digest: 22c2aa14edd12174435ff90da852cdd6
         default_tag: default
     aliases: ['Citrus_sinensis_JGI_v1_assembly_and_v1_0_annotation']
     genome_description: Citrus sinensis JGI v1 assembly and v1.0 annotation
@@ -2234,11 +2557,11 @@ genomes:
               fai: 6caf68ac9d45756c70f6ba179dc233ff50ba8633422ab164.fa.fai
               chrom_sizes: 6caf68ac9d45756c70f6ba179dc233ff50ba8633422ab164.chrom.sizes
             asset_parents: []
-            archive_digest: 86ebaa4837037b1e5bb88b91160e460c
+            archive_digest: de50859d0280dcf2f3c7aa806cbdf1e5
             archive_size: 361.9MB
             asset_size: 1.3GB
             asset_children: []
-            legacy_archive_digest: 1301b04f70da5774a57dc1ba64dbb287
+            legacy_archive_digest: 95fe814afedbf3eee734601592665b1d
         default_tag: default
     aliases: ['Chenopodium_quinoa__JGI_v1_0']
     genome_description: Chenopodium quinoa  JGI v1.0
@@ -2255,7 +2578,11 @@ genomes:
               fai: fa91552e74efaeabf81203ae4d6c5c991df9f154789e83a1.fa.fai
               chrom_sizes: fa91552e74efaeabf81203ae4d6c5c991df9f154789e83a1.chrom.sizes
             asset_parents: []
-            archive_digest: 57c82f4f0120add16164e3467dd515b4
+            archive_digest: 702ecc1a277d439acb028ceb387684e5
+            archive_size: 317.2MB
+            asset_size: 1.4GB
+            asset_children: []
+            legacy_archive_digest: c011a447fe265a2102a5aad86548ad9a
         default_tag: default
     aliases: ['Elaeis_guineensis_EG5_1']
     genome_description: Elaeis guineensis EG5.1
@@ -2272,11 +2599,11 @@ genomes:
               fai: acd6dae4252d2e81d71b21c5d86b173e0241a35ce60b29d2.fa.fai
               chrom_sizes: acd6dae4252d2e81d71b21c5d86b173e0241a35ce60b29d2.chrom.sizes
             asset_parents: []
-            archive_digest: 2b2237a8835778c7956f6351f500328c
+            archive_digest: 216cecf440acc83c85e667ae4a377209
             archive_size: 388.7MB
             asset_size: 1.3GB
             asset_children: []
-            legacy_archive_digest: 224f841d6fbd867fb1decdd772923e54
+            legacy_archive_digest: 68ab6f021a2ac0e1cd2e05b91a78e324
         default_tag: default
     aliases: ['Malus_domestica_IASMA']
     genome_description: Malus domestica IASMA
@@ -2293,7 +2620,11 @@ genomes:
               fai: eb6163b8ac63dcd113acb1932df0a41936d2ac2adb97c325.fa.fai
               chrom_sizes: eb6163b8ac63dcd113acb1932df0a41936d2ac2adb97c325.chrom.sizes
             asset_parents: []
-            archive_digest: 4141648b1ef9f5fc7b2eb3c1e3de0315
+            archive_digest: b0b2a0c99888097a774312711264be1d
+            archive_size: 74.2MB
+            asset_size: 304.6MB
+            asset_children: []
+            legacy_archive_digest: 57acd95809a62cff9b2dd1103934c716
         default_tag: default
     aliases: ['Brassica_rapa__JGI_FPsc1_3']
     genome_description: Brassica rapa  JGI FPsc1.3
@@ -2310,7 +2641,11 @@ genomes:
               fai: b10f2d1ccc9bd1b26c9317a104f8094816bb08ebda9d5ed0.fa.fai
               chrom_sizes: b10f2d1ccc9bd1b26c9317a104f8094816bb08ebda9d5ed0.chrom.sizes
             asset_parents: []
-            archive_digest: e5178c7bff098cc942212cf570cada12
+            archive_digest: 821c3a1bdc74ec496b448953b9973f30
+            archive_size: 361.7MB
+            asset_size: 1.3GB
+            asset_children: []
+            legacy_archive_digest: a628d203a24817ce8cb6a5c2eb54fe8d
         default_tag: default
     aliases: ['Hevea_brasiliensis__NCBI_Genomes_v1']
     genome_description: Hevea brasiliensis  NCBI Genomes v1
@@ -2327,11 +2662,11 @@ genomes:
               fai: a4cdfb3599f18ecddb6a5d0699d811ef7d9cad2b42c18419.fa.fai
               chrom_sizes: a4cdfb3599f18ecddb6a5d0699d811ef7d9cad2b42c18419.chrom.sizes
             asset_parents: []
-            archive_digest: 5ede82d847b10d57d587eee3a197cb89
+            archive_digest: 2ec94c3a4e324b5b37589a07bca74594
             archive_size: 214.3MB
             asset_size: 735.3MB
             asset_children: []
-            legacy_archive_digest: dbd19834c020bfd128241bc9e28deb75
+            legacy_archive_digest: a243b77e15de5fbc02b5ec843fe671a1
         default_tag: default
     aliases: ['Gossypium_raimondii__JGI_v2_1']
     genome_description: Gossypium raimondii  JGI v2.1
@@ -2348,7 +2683,11 @@ genomes:
               fai: a3d718cd3533c0467119cbc2b13849746b50fd1bdfaaee88.fa.fai
               chrom_sizes: a3d718cd3533c0467119cbc2b13849746b50fd1bdfaaee88.chrom.sizes
             asset_parents: []
-            archive_digest: 3ad0e4617901876ff2b1791b9a9b8042
+            archive_digest: 763a9ff475eff2e8ec144fc52c2be9fa
+            archive_size: 1.3GB
+            asset_size: 4.6GB
+            asset_children: []
+            legacy_archive_digest: c944f69b3ffed0f9fb5453a0d0163112
         default_tag: default
     aliases: ['Hordeum_vulgare_IBC_PGSB_v2']
     genome_description: Hordeum vulgare IBC PGSB v2
@@ -2365,7 +2704,11 @@ genomes:
               fai: daaa7e3a1ab020655ac0554dc36493a3b04308a661052667.fa.fai
               chrom_sizes: daaa7e3a1ab020655ac0554dc36493a3b04308a661052667.chrom.sizes
             asset_parents: []
-            archive_digest: 8d204137b99f2c8b3299dba4cf8cf116
+            archive_digest: dcbabaa8a8c14e8f1857f638924855a8
+            archive_size: 185.6MB
+            asset_size: 667.9MB
+            asset_children: []
+            legacy_archive_digest: aa487e233fc7408d1e5a45640cc9d540
         default_tag: default
     aliases: ['Eucalyptus_grandis__JGI_v2_0']
     genome_description: Eucalyptus grandis  JGI v2.0
@@ -2382,7 +2725,6 @@ genomes:
               fai: 6017bd572dd6112b052891863a8b19d85943dd46772e5476.fa.fai
               chrom_sizes: 6017bd572dd6112b052891863a8b19d85943dd46772e5476.chrom.sizes
             asset_parents: []
-            archive_digest: 465850cba7183d8b9e05c197e4b6d087
         default_tag: default
     aliases: ['Capsicum_annuum__Pepper_Genome_v2_0']
     genome_description: Capsicum annuum  Pepper Genome v2.0
@@ -2399,11 +2741,11 @@ genomes:
               fai: 11ef70ce0f68c21300d5b61079a3dee2d1cfa2d9cfc47f09.fa.fai
               chrom_sizes: 11ef70ce0f68c21300d5b61079a3dee2d1cfa2d9cfc47f09.chrom.sizes
             asset_parents: []
-            archive_digest: 080b447feafa392a008f46e06d5fd167
+            archive_digest: b3f8d17f7edf8fbdf32b7f91fb627f6a
             archive_size: 542.4MB
             asset_size: 2.0GB
             asset_children: []
-            legacy_archive_digest: b220f03e1003c0045d38c26c4d3387d6
+            legacy_archive_digest: 55754b7e67c3b04bed2a2210a5557104
         default_tag: default
     aliases: ['Phyllostachys_edulis_NCGR_v1_0']
     genome_description: Phyllostachys edulis NCGR v1.0
@@ -2420,6 +2762,11 @@ genomes:
               fai: c0c381b217abf7855e877a8dcc0b99880194923e5cd84375.fa.fai
               chrom_sizes: c0c381b217abf7855e877a8dcc0b99880194923e5cd84375.chrom.sizes
             asset_parents: []
+            archive_digest: 852c4ddf2e03d6c3af2748b8777dae98
+            archive_size: 2.7GB
+            asset_size: 9.4GB
+            asset_children: []
+            legacy_archive_digest: 7f37465734597ded401af0661bef94f8
         default_tag: default
     aliases: ['Triticum_turgidum_Svevo_v1_0']
     genome_description: Triticum turgidum Svevo v1.0
@@ -2452,7 +2799,6 @@ genomes:
               fai: fe78bfa2b40cd1cfcc0eb4c85726f5eedbcc0c3607cda0ca.fa.fai
               chrom_sizes: fe78bfa2b40cd1cfcc0eb4c85726f5eedbcc0c3607cda0ca.chrom.sizes
             asset_parents: []
-            archive_digest: 8681007ae19d806e9e8e1986f07369b1
         default_tag: default
     aliases: ['Triticum_aestivum_Ensembl_Plants_TGACv1']
     genome_description: Triticum aestivum Ensembl Plants TGACv1
@@ -2469,7 +2815,11 @@ genomes:
               fai: 3048f0ddaa2abc35e3a8b249b1fad695f8a24697abe55832.fa.fai
               chrom_sizes: 3048f0ddaa2abc35e3a8b249b1fad695f8a24697abe55832.chrom.sizes
             asset_parents: []
-            archive_digest: bfe16c6404896e7e805c9aab5da3b067
+            archive_digest: ac3e1f523eb6d625505877f52067c968
+            archive_size: 581.3MB
+            asset_size: 2.0GB
+            asset_children: []
+            legacy_archive_digest: 45416666f4b2c717bce2dca02a8aae30
         default_tag: default
     aliases: ['Hordeum_vulgare_MIPS']
     genome_description: Hordeum vulgare MIPS
@@ -2486,7 +2836,6 @@ genomes:
               fai: 5a3bbdc406b149991f9af2f432def17c5112a9cfd66c0e53.fa.fai
               chrom_sizes: 5a3bbdc406b149991f9af2f432def17c5112a9cfd66c0e53.chrom.sizes
             asset_parents: []
-            archive_digest: 817604b3249ec046aa4417adcbc56794
         default_tag: default
     aliases: ['Picea_abies__ConGenIE_v1_0']
     genome_description: Picea abies  ConGenIE v1.0
