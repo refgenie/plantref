@@ -1,6 +1,8 @@
 pipeline_name: refgenie
 pipeline_type: sample
 input_schema: build_inschema.yaml
+compute:
+  bulker_crate: databio/refgenie:0.7.7
 paths:
   refgenie: "refgenie"
   compute_vars: "{looper.piface_dir}/build-compute-params.py"
