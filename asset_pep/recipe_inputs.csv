@@ -40,7 +40,6 @@ Chenopodium_quinoa__JGI_v1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_
 Chlamydomonas_reinhardtii_JGI_v5_0_assembly_annot_v5_3_1_based_on_Augustus_u11_6-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_03/Genomes/cre.con.gz,files,4cd3fad6ec67ec6198898fcbe9267eb1
 Chlamydomonas_reinhardtii__JGI_v5_5-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/cre.con.gz,files,550501f9228fb04d34d2b8c96993740a
 Chlamydomonas_reinhardtii_JGI_5_5_Phytozome_10_2-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/cre.fasta.gz,files,3dba9aa194171189a17a5310bb925734
-Capsella_rubella_JGI_annotation_v1_0_on_assembly_v1-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_03/Genomes/cru.con.gz,files,ad785317898c29dd94f3601454d57145
 Capsella_rubella__JGI_v1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/cru.con.gz,files,d8b943cefc2a9041eb66c9ca9db5fad0
 Cucumis_sativus_L___JGI_v1_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/csa.con.gz,files,3fa04ea0ea9519d74d02b0f7dd3ee253
 Citrus_sinensis_JGI_v1_assembly_and_v1_0_annotation-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_03/Genomes/csi.con.gz,files,f1952cd15230a191a11982da0d88f07f
@@ -80,7 +79,6 @@ Medicago_truncatula_JCVI_4_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_
 Medicago_truncatula__JGI_Mt4_0v1-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/mtr.con.gz,files,02536fb2669097170ae080bccc12cbc0
 Nelumbo_nucifera__LOTUS-DB_v1_1-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/nnu.con.gz,files,5e4cef855de2a4ec3ee0d53afb701f89
 Oryza_brachyantha_Ensembl_Plants_v1_4b-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_monocots_04_5/Genomes/obr.fasta.gz,files,ea80744386421658dbea878a8458144e
-Ostreococcus_lucimarinus_JGI_v2_0_assembly_and_annotation-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_03/Genomes/olu.con.gz,files,20bfc449af6a2261ca915033d1aab370
 Ostreococcus_lucimarinus_JGI_2_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/olu.fasta.gz,files,dacb2cfebcd76a20ea8f52939c0ad457
 Ostreococcus_mediterraneus_Ghent_University-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/ome.fasta.gz,files,83d217a7c9ceaf97d82f2f9b41d8843f
 Ostreococcus_sp_RCC809_JGI_2_0-fasta,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/orcc809.fasta.gz,files,6d176ae2d44d3bfb845b25f9a4db8df3

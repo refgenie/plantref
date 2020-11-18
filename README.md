@@ -140,8 +140,7 @@ looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm
 Assets are built locally now, but to serve them, we must archive them using `refgenieserver`. The general command is `refgenieserver archive -c <path/to/genomes.yaml>`. Since the archive process is generally lengthy, it makes sense to submit this job to the cluster. We can use looper to that. To start over completely, remove the archive config file with: `rm config/refgenie_config_archive.yaml`
 
 ```
-ba
-looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta
+looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta --lumpn 10
 
 <!-- looper run asset_pep/refgenieserver_archive_cfg.yaml -p slurm -t 0.1 -c partition=standard -->
 ```
