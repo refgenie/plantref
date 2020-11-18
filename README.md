@@ -1,6 +1,6 @@
-# refgenomes.databio.org server overview
+# plantref.databio.org server overview
 
-This repository contains the files to build and archive genome assets to serve with [refgenieserver](https://github.com/refgenie/refgenieserver) at http://refgenomes.databio.org. 
+This repository contains the files to build and archive genome assets to serve with [refgenieserver](https://github.com/refgenie/refgenieserver) at http://plantref.databio.org. 
 
 The whole process is scripted, starting from this repository. From here, we do this basic workflow:
 
