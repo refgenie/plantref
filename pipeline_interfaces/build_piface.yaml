@@ -7,7 +7,7 @@ var_templates:
   refgenie: "refgenie"
   compute_vars: "{looper.piface_dir}/build-compute-params.py"
 pre_submit:
-  command_template: 
+  command_templates: 
     - "{pipeline.var_templates.compute_vars} -a {sample.asset} -g {sample.genome}"
 command_template: >
   {pipeline.var_templates.refgenie} build { sample.genome }/{ sample.asset }
