@@ -14,7 +14,7 @@ sample_modifiers:
   derive:
     attributes: ['sample_name', 'local_input']
     sources:
-      sn: "{genome}-{asset}"
+      sn: "{genome}-{asset}-{tag}"
       LOCAL_INPUT: "$REFGENIE_RAW/{genome}-{asset}-"
 
 project_modifiers:
@@ -28,5 +28,5 @@ project_modifiers:
     archive:
       sample_modifiers:
         append:
-          pipeline_interfaces: ../pipelnie_interfaces/archive_piface.yaml
+          pipeline_interfaces: ../pipeline_interfaces/archive_piface.yaml
 

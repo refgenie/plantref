@@ -45,7 +45,7 @@ Next you will need to fill in 3 columns:
 
 **Validate the PEP with [`eido`](http://eido.databio.org/en/latest/)**
 
-The command below validates the PEP aginst a remote schema. Any PEP issues will result in a `ValidationError`:
+The command below validates the PEP against a remote schema. Any PEP issues will result in a `ValidationError`:
 
 ```
 eido validate refgenie_build_cfg.yaml -s http://schema.databio.org/refgenie/refgenie_build.yaml
@@ -140,7 +140,7 @@ looper run asset_pep/refgenie_build_cfg.yaml -p bulker_slurm
 Assets are built locally now, but to serve them, we must archive them using `refgenieserver`. The general command is `refgenieserver archive -c <path/to/genomes.yaml>`. Since the archive process is generally lengthy, it makes sense to submit this job to the cluster. We can use looper to that. To start over completely, remove the archive config file with: `rm config/refgenie_config_archive.yaml`
 
 ```
-looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta --lumpn 10
+looper run asset_pep/refgenieserver_archive_cfg.yaml -p bulker_slurm --sel-attr asset --sel-incl fasta --lumpn 5
 
 <!-- looper run asset_pep/refgenieserver_archive_cfg.yaml -p slurm -t 0.1 -c partition=standard -->
 ```
