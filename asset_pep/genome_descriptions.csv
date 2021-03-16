@@ -1,133 +1,132 @@
 sample_name,genome_description
-AureococcusAnophagefferens-fasta,Aureococcus anophagefferens JGI 1.0
-Asterochloris-fasta,Asterochloris sp. Cgr/DA1pho v2.0 JGI 7.45.13
-ActinidiaChinensis-fasta,Actinidia chinensis  FEI Lab v1.0
-AnanasComosus-fasta,Ananas comosus JGI v3.0
-ArachisIpaensis-fasta,Arachis ipaensis  Peanut Base v1.0
-ArabidopsisLyrata-fasta,Arabidopsis lyrata JGI v1.0
-AsparagusOfficinalis-fasta,Asparagus officinalis v1.1
-AuxenochlorellaProtothecoides-fasta,Auxenochlorella protothecoides Beijing Genomics Institute 1.0
-ApostasiaShenzhenica-fasta,Apostasia shenzhenica v1.0
-ArabidopsisThaliana_Araport11-fasta,Arabidopsis thaliana COL-0 Araport11
-ArabidopsisThaliana_TAIR10-fasta,Arabidopsis thaliana COL-0 TAIR10
-AmborellaTrichopoda_v1_0-fasta,Amborella trichopoda Amborella V1.0
-AmborellaTrichopoda-fasta,Amborella trichopoda  JGI v1.0
-BrachypodiumDistachyon_MIPS_v1_2-fasta,Brachypodium distachyon MIPS 1.2
-BrachypodiumDistachyon_JGI_v3_1-fasta,Brachypodium distachyon JGI v3.1
-BrassicaOleracea-fasta,Brassica oleracea  Ensembl Genomes v2.1
-BathycoccusPrasinos-fasta,Bathycoccus prasinos Ghent University
-BrassicaRapa_v1_1-fasta,Brassica rapa Annotation v1.2 on assembly v1.1 (Phytozome 9.1)
-BrassicaRapa_v1_3-fasta,Brassica rapa  JGI FPsc1.3
-BetaVulgaris_v1_1-fasta,Beta vulgaris RefBeet 1.1
-BetaVulgaris_v1_2-fasta,Beta vulgaris  RefBeet v1.2
-CalamusSimplicifolius-fasta,Calamus simplicifolius v1.0
-CenchrusAmericanus-fasta,Cenchrus americanus v1.0
-CapsicumAnnuum-fasta,Capsicum annuum  Pepper Genome v2.0
-CicerArietinum-fasta,Cicer arietinum  LIS v1.0
-CajanusCajan-fasta,Cajanus cajan  Penguin Genomics v5.0
-CoffeaCanephora-fasta,Coffea canephora  Coffee Genome Hub v1
-CitrusClementina-fasta,Citrus clementina  JGI v1.0
-CitrullusLanatus_Cucurbit_Genomics-fasta,Citrullus lanatus Cucurbit Genomics Database
-CitrullusLanatus-fasta,Citrullus lanatus  Cucurbit Genomics Database v1.0
-CucumisMelo-fasta,Cucumis melo  Melonomics v3.5
-CyanidioschyzonMerolae-fasta,Cyanidioschyzon merolae Tokyo University
-Chlorella-fasta,Chlorella sp NC64A JGI 1.0
-CorchorusOlitorius-fasta,Corchorus olitorius  GenBank v1.0
-CaricaPapaya-fasta,Carica papaya  JGI ASGPB0.4
-ChenopodiumQuinoa-fasta,Chenopodium quinoa  JGI v1.0
-ChlamydomonasReinhardtii_JGI_v5_0-fasta,Chlamydomonas reinhardtii JGI v5.0 assembly- annot v5.3.1 based on Augustus u11.6
-ChlamydomonasReinhardtii_JGI_v5_5-fasta,Chlamydomonas reinhardtii  JGI v5.5
-CapsellaRubella-fasta,Capsella rubella  JGI v1.0
-CucumisSativus-fasta,Cucumis sativus L.  JGI v1.0
-CitrusSinensis-fasta,Citrus sinensis JGI v1 assembly and v1.0 annotation
-CoccomyxaSubellipsoidea-fasta,Coccomyxa subellipsoidea C-169 JGI 2.0 (Phytozome 10.2)
-DaucusCarota-fasta,Daucus carota  JGI v2.0
-EucalyptusGrandis_JGI_v1_0-fasta,Eucalyptus grandis JGI assembly v1.0- annotation v1.1
-EucalyptusGrandis_JGI_v2_0-fasta,Eucalyptus grandis  JGI v2.0
-ElaeisGuineensis_NCBI-fasta,Elaeis guineensis NCBI Genome v1.0
-ElaeisGuineensis_EG5-fasta,Elaeis guineensis EG5.1
-ErythrantheGuttata-fasta,Erythranthe guttata  JGI v2.0
-EctocarpusSiliculosus-fasta,Ectocarpus siliculosus Ghent University
-FragilariopsisCylindrus-fasta,Fragilariopsis cylindrus JGI 1.0
-FragariaVesca_v1_0-fasta,Fragaria vesca Strawberry Genome 1.0
-FragariaVesca_v1_1-fasta,Fragaria vesca  JGI v1.1
-GlycineMax-fasta,Glycine max  JGI Wm82.a2.v1
-GossypiumRaimondii_JGI_v2_0-fasta,Gossypium raimondii JGI annotation v2.1 on assembly v2.0
-GossypiumRaimondii_JGI_v2_1-fasta,Gossypium raimondii  JGI v2.1
-Hevea_brasiliensis__NCBI_Genomes_v1-fasta,Hevea brasiliensis  NCBI Genomes v1
-Helicosporidium-fasta,Helicosporidium sp.  Illinois University 1.0
-Hordeum_vulgare_MIPS-fasta,Hordeum vulgare MIPS
-HordeumVulgare_ASM32608v1-fasta,Hordeum vulgare Ensembl Genomes ASM32608v1
-HordeumVulgare_IBC_v2-fasta,Hordeum vulgare IBC PGSB v2
-LotusJaponicus-fasta,Lotus japonicus Kazusa 2.5
-MusaAcuminata_v1_0-fasta,Musa acuminata Banana Genome v1.0
-MusaAcuminata_v2_0-fasta,Musa acuminata Banana Genome v2.0
-MicromonasCommoda-fasta,Micromonas commoda  JGI v3.0
-MalusDomestica_IASMA-fasta,Malus domestica IASMA
-MalusDomestica-fasta,Malus domestica  Penguin Genomics v2
-ManihotEsculenta-fasta,Manihot esculenta  JGI v6.1
-MarchantiaPolymorpha-fasta,Marchantia polymorpha  JGI v3.1
-MicromonasPusilla-fasta,Micromonas pusilla strain CCMP1545 Ghent University
-Micromonas-fasta,Micromonas sp RCC299 JGI 3.0
-MedicagoTruncatula_JCVI_v4_0-fasta,Medicago truncatula JCVI 4.0
-MedicagoTruncatula_Mt4_0_v1-fasta,Medicago truncatula  JGI Mt4.0v1
-NelumboNucifera-fasta,Nelumbo nucifera  LOTUS-DB v1.1
-OryzaBrachyantha-fasta,Oryza brachyantha Ensembl Plants v1.4b
-OstreococcusLucimarinus-fasta,Ostreococcus lucimarinus JGI 2.0
-OstreococcusMediterraneus-fasta,Ostreococcus mediterraneus Ghent University
-Ostreococcus_sp_RCC809_JGI_v2_0-fasta,Ostreococcus sp RCC809 JGI 2.0
-OryzaSativa_ssp_japonica_MSU_RGAP_7-fasta,Oryza sativa ssp. japonica MSU RGAP 7
-OryzaSativa_ssp_japonica_JGI_v7_0-fasta,Oryza sativa ssp. japonica  JGI v7.0
-OryzaSativa_ssp_indica_9311_BGF_2005-fasta,Oryza sativa ssp. indica 9311_BGF_2005
-OryzaSativa_ssp_indica_MBKBASE_v1_0-fasta,Oryza sativa ssp. indica MBKBASE v1.0
-OstreococcusTauri-fasta,Ostreococcus tauri Ghent University v2.0
-OropetiumThomaeum-fasta,Oropetium thomaeum JGI v1.0
-PiceaAbies-fasta,Picea abies  ConGenIE v1.0
-PetuniaAxillaris-fasta,Petunia axillaris  Sol Genomics v1.6.2
-PyrusBretschneideri-fasta,Pyrus bretschneideri  Pear Genome Project v1.0
-PhyllostachysEdulis-fasta,Phyllostachys edulis NCGR v1.0
-PhalaenopsisEquestris-fasta,Phalaenopsis equestris Genomics v1.0
-PhyscomitrellaPatens_JGI_v1_1-fasta,Physcomitrella patens JGI assembly release v1.1 and COSMOSS annotation v1.6
-PhyscomitrellaPatens_JGI_v3_3-fasta,Physcomitrella patens  JGI v3.3
-PrunusPersica_JGI_v1_0-fasta,Prunus persica JGI release v1.0
-PrunusPersica_JGI_v2_1-fasta,Prunus persica  JGI v2.1
-Picochlorum_RCC4223-fasta,Picochlorum_RCC4223  ORCAE
-Picochlorum-fasta,Picochlorum sp. SENEW3 (SE3) Rutgers University 1.0
-PopulusTrichocarpa_JGI_v3_0-fasta,Populus trichocarpa JGI assembly release v3.0- annotation v3.0
-PopulusTrichocarpa_JGI_v3_1-fasta,Populus trichocarpa  JGI v3.1
-PhaeodactylumTricornutum-fasta,Phaeodactylum tricornutum ASM15095v2
-RicinusCommunis_JCVI_1_0-fasta,Ricinus communis JCVI 1.0
-RicinusCommunis_JGI_v0_1-fasta,Ricinus communis  JGI v0.1
-SorghumBicolor_JGI_1_4-fasta,Sorghum bicolor JGI 1.4
-SorghumBicolor_JGI_v3_1-fasta,Sorghum bicolor JGI v3.1
-SetariaItalica_JGI_v2_2-fasta,Setaria italica JGI v2.2
-SolanumLycopersicum_ITAG_v2_3-fasta,Solanum lycopersicum ITAG 2.3
-SolanumLycopersicum_ITAG_v2_4-fasta,Solanum lycopersicum  Sol Genomics itag2.4
-SelaginellaMoellendorffii_JGI_v1_0-fasta,Selaginella moellendorffii  JGI v1.0
-SelaginellaMoellendorffii_NCBI-fasta,Selaginella moellendorffii NCBIr100
-SchrenkiellaParvula-fasta,Schrenkiella parvula  Thellungiella v2.0 (TpV84)
-SpirodelaPolyrhiza-fasta,Spirodela polyrhiza JGI v2.0
-SaccharumSpontaneum-fasta,Saccharum spontaneum v20190103
-SolanumTuberosum_ITAG-fasta,Solanum tuberosum ITAG 001
-SolanumTuberosum_JGI_v4_03-fasta,Solanum tuberosum  JGI v4.03
-TriticumAestivum_TGAC_v1-fasta,Triticum aestivum Ensembl Plants TGACv1
-TriticumAestivum_IWGSC_v1_1-fasta,Triticum aestivum IWGSC1.1
-TheobromaCacao_Phytozome_v1_1-fasta,Theobroma cacao D. Gilbert public gene set 8 Mar 2012 on assembly v1.1
-TheobromaCacao_RefSeq_v1_1-fasta,Theobroma cacao  RefSeq v1.1
-TarenayaHassleriana-fasta,Tarenaya hassleriana  RefSeq v1
-ThellungiellaParvula-fasta,Thellungiella parvula TpV84
-TrifoliumPratense-fasta,Trifolium pratense  JGI v2
-ThalassiosiraPseudonana-fasta,Thalassiosira pseudonana JGI 3.0
-TriticumTurgidum-fasta,Triticum turgidum Svevo v1.0
-UtriculariaGibba-fasta,Utricularia gibba  CoGe v4
-VolvoxCarteri-fasta,Volvox carteri JGI 2.0 (Phtyozome 10.2)
-VignaRadiata-fasta,Vigna radiata var. radiata  LIS v6
-VitisVinifera_genescope_v1-fasta,Vitis vinifera genescope v1
-VitisVinifera-fasta,Vitis vinifera  JGI 12xMarch2010
-ZoysiaJaponica-fasta,Zoysia japonica ssp. nagirizaki Zoysia Genome Database v1.1
-ZiziphusJujuba-fasta,Ziziphus jujuba  RefSeq v1.1
-ZeaMays_v5b_60-fasta,Zea mays B73 5b.60
-ZeaMays_AGP_v4_0-fasta,Zea mays B73 AGP v4.0
-ZeaMays_PH207-fasta,Zea mays PH207 v1.0
-ZosteraMarina-fasta,Zostera marina JGI v2.2
-
+AureococcusAnophagefferens-fasta-default,Aureococcus anophagefferens JGI 1.0
+Asterochloris-fasta-default,Asterochloris sp. Cgr/DA1pho v2.0 JGI 7.45.13
+ActinidiaChinensis-fasta-default,Actinidia chinensis  FEI Lab v1.0
+AnanasComosus-fasta-default,Ananas comosus JGI v3.0
+ArachisIpaensis-fasta-default,Arachis ipaensis  Peanut Base v1.0
+ArabidopsisLyrata-fasta-default,Arabidopsis lyrata JGI v1.0
+AsparagusOfficinalis-fasta-default,Asparagus officinalis v1.1
+AuxenochlorellaProtothecoides-fasta-default,Auxenochlorella protothecoides Beijing Genomics Institute 1.0
+ApostasiaShenzhenica-fasta-default,Apostasia shenzhenica v1.0
+ArabidopsisThaliana_Araport11-fasta-default,Arabidopsis thaliana COL-0 Araport11
+ArabidopsisThaliana_TAIR10-fasta-default,Arabidopsis thaliana COL-0 TAIR10
+AmborellaTrichopoda_v1_0-fasta-default,Amborella trichopoda Amborella V1.0
+AmborellaTrichopoda-fasta-default,Amborella trichopoda  JGI v1.0
+BrachypodiumDistachyon_MIPS_v1_2-fasta-default,Brachypodium distachyon MIPS 1.2
+BrachypodiumDistachyon_JGI_v3_1-fasta-default,Brachypodium distachyon JGI v3.1
+BrassicaOleracea-fasta-default,Brassica oleracea  Ensembl Genomes v2.1
+BathycoccusPrasinos-fasta-default,Bathycoccus prasinos Ghent University
+BrassicaRapa_v1_1-fasta-default,Brassica rapa Annotation v1.2 on assembly v1.1 (Phytozome 9.1)
+BrassicaRapa_v1_3-fasta-default,Brassica rapa  JGI FPsc1.3
+BetaVulgaris_v1_1-fasta-default,Beta vulgaris RefBeet 1.1
+BetaVulgaris_v1_2-fasta-default,Beta vulgaris  RefBeet v1.2
+CalamusSimplicifolius-fasta-default,Calamus simplicifolius v1.0
+CenchrusAmericanus-fasta-default,Cenchrus americanus v1.0
+CapsicumAnnuum-fasta-default,Capsicum annuum  Pepper Genome v2.0
+CicerArietinum-fasta-default,Cicer arietinum  LIS v1.0
+CajanusCajan-fasta-default,Cajanus cajan  Penguin Genomics v5.0
+CoffeaCanephora-fasta-default,Coffea canephora  Coffee Genome Hub v1
+CitrusClementina-fasta-default,Citrus clementina  JGI v1.0
+CitrullusLanatus_Cucurbit_Genomics-fasta-default,Citrullus lanatus Cucurbit Genomics Database
+CitrullusLanatus-fasta-default,Citrullus lanatus  Cucurbit Genomics Database v1.0
+CucumisMelo-fasta-default,Cucumis melo  Melonomics v3.5
+CyanidioschyzonMerolae-fasta-default,Cyanidioschyzon merolae Tokyo University
+Chlorella-fasta-default,Chlorella sp NC64A JGI 1.0
+CorchorusOlitorius-fasta-default,Corchorus olitorius  GenBank v1.0
+CaricaPapaya-fasta-default,Carica papaya  JGI ASGPB0.4
+ChenopodiumQuinoa-fasta-default,Chenopodium quinoa  JGI v1.0
+ChlamydomonasReinhardtii_JGI_v5_0-fasta-default,Chlamydomonas reinhardtii JGI v5.0 assembly- annot v5.3.1 based on Augustus u11.6
+ChlamydomonasReinhardtii_JGI_v5_5-fasta-default,Chlamydomonas reinhardtii  JGI v5.5
+CapsellaRubella-fasta-default,Capsella rubella  JGI v1.0
+CucumisSativus-fasta-default,Cucumis sativus L.  JGI v1.0
+CitrusSinensis-fasta-default,Citrus sinensis JGI v1 assembly and v1.0 annotation
+CoccomyxaSubellipsoidea-fasta-default,Coccomyxa subellipsoidea C-169 JGI 2.0 (Phytozome 10.2)
+DaucusCarota-fasta-default,Daucus carota  JGI v2.0
+EucalyptusGrandis_JGI_v1_0-fasta-default,Eucalyptus grandis JGI assembly v1.0- annotation v1.1
+EucalyptusGrandis_JGI_v2_0-fasta-default,Eucalyptus grandis  JGI v2.0
+ElaeisGuineensis_NCBI-fasta-default,Elaeis guineensis NCBI Genome v1.0
+ElaeisGuineensis_EG5-fasta-default,Elaeis guineensis EG5.1
+ErythrantheGuttata-fasta-default,Erythranthe guttata  JGI v2.0
+EctocarpusSiliculosus-fasta-default,Ectocarpus siliculosus Ghent University
+FragilariopsisCylindrus-fasta-default,Fragilariopsis cylindrus JGI 1.0
+FragariaVesca_v1_0-fasta-default,Fragaria vesca Strawberry Genome 1.0
+FragariaVesca_v1_1-fasta-default,Fragaria vesca  JGI v1.1
+GlycineMax-fasta-default,Glycine max  JGI Wm82.a2.v1
+GossypiumRaimondii_JGI_v2_0-fasta-default,Gossypium raimondii JGI annotation v2.1 on assembly v2.0
+GossypiumRaimondii_JGI_v2_1-fasta-default,Gossypium raimondii  JGI v2.1
+Hevea_brasiliensis__NCBI_Genomes_v1-fasta-default,Hevea brasiliensis  NCBI Genomes v1
+Helicosporidium-fasta-default,Helicosporidium sp.  Illinois University 1.0
+Hordeum_vulgare_MIPS-fasta-default,Hordeum vulgare MIPS
+HordeumVulgare_ASM32608v1-fasta-default,Hordeum vulgare Ensembl Genomes ASM32608v1
+HordeumVulgare_IBC_v2-fasta-default,Hordeum vulgare IBC PGSB v2
+LotusJaponicus-fasta-default,Lotus japonicus Kazusa 2.5
+MusaAcuminata_v1_0-fasta-default,Musa acuminata Banana Genome v1.0
+MusaAcuminata_v2_0-fasta-default,Musa acuminata Banana Genome v2.0
+MicromonasCommoda-fasta-default,Micromonas commoda  JGI v3.0
+MalusDomestica_IASMA-fasta-default,Malus domestica IASMA
+MalusDomestica-fasta-default,Malus domestica  Penguin Genomics v2
+ManihotEsculenta-fasta-default,Manihot esculenta  JGI v6.1
+MarchantiaPolymorpha-fasta-default,Marchantia polymorpha  JGI v3.1
+MicromonasPusilla-fasta-default,Micromonas pusilla strain CCMP1545 Ghent University
+Micromonas-fasta-default,Micromonas sp RCC299 JGI 3.0
+MedicagoTruncatula_JCVI_v4_0-fasta-default,Medicago truncatula JCVI 4.0
+MedicagoTruncatula_Mt4_0_v1-fasta-default,Medicago truncatula  JGI Mt4.0v1
+NelumboNucifera-fasta-default,Nelumbo nucifera  LOTUS-DB v1.1
+OryzaBrachyantha-fasta-default,Oryza brachyantha Ensembl Plants v1.4b
+OstreococcusLucimarinus-fasta-default,Ostreococcus lucimarinus JGI 2.0
+OstreococcusMediterraneus-fasta-default,Ostreococcus mediterraneus Ghent University
+Ostreococcus_sp_RCC809_JGI_v2_0-fasta-default,Ostreococcus sp RCC809 JGI 2.0
+OryzaSativa_ssp_japonica_MSU_RGAP_7-fasta-default,Oryza sativa ssp. japonica MSU RGAP 7
+OryzaSativa_ssp_japonica_JGI_v7_0-fasta-default,Oryza sativa ssp. japonica  JGI v7.0
+OryzaSativa_ssp_indica_9311_BGF_2005-fasta-default,Oryza sativa ssp. indica 9311_BGF_2005
+OryzaSativa_ssp_indica_MBKBASE_v1_0-fasta-default,Oryza sativa ssp. indica MBKBASE v1.0
+OstreococcusTauri-fasta-default,Ostreococcus tauri Ghent University v2.0
+OropetiumThomaeum-fasta-default,Oropetium thomaeum JGI v1.0
+PiceaAbies-fasta-default,Picea abies  ConGenIE v1.0
+PetuniaAxillaris-fasta-default,Petunia axillaris  Sol Genomics v1.6.2
+PyrusBretschneideri-fasta-default,Pyrus bretschneideri  Pear Genome Project v1.0
+PhyllostachysEdulis-fasta-default,Phyllostachys edulis NCGR v1.0
+PhalaenopsisEquestris-fasta-default,Phalaenopsis equestris Genomics v1.0
+PhyscomitrellaPatens_JGI_v1_1-fasta-default,Physcomitrella patens JGI assembly release v1.1 and COSMOSS annotation v1.6
+PhyscomitrellaPatens_JGI_v3_3-fasta-default,Physcomitrella patens  JGI v3.3
+PrunusPersica_JGI_v1_0-fasta-default,Prunus persica JGI release v1.0
+PrunusPersica_JGI_v2_1-fasta-default,Prunus persica  JGI v2.1
+Picochlorum_RCC4223-fasta-default,Picochlorum_RCC4223  ORCAE
+Picochlorum-fasta-default,Picochlorum sp. SENEW3 (SE3) Rutgers University 1.0
+PopulusTrichocarpa_JGI_v3_0-fasta-default,Populus trichocarpa JGI assembly release v3.0- annotation v3.0
+PopulusTrichocarpa_JGI_v3_1-fasta-default,Populus trichocarpa  JGI v3.1
+PhaeodactylumTricornutum-fasta-default,Phaeodactylum tricornutum ASM15095v2
+RicinusCommunis_JCVI_1_0-fasta-default,Ricinus communis JCVI 1.0
+RicinusCommunis_JGI_v0_1-fasta-default,Ricinus communis  JGI v0.1
+SorghumBicolor_JGI_1_4-fasta-default,Sorghum bicolor JGI 1.4
+SorghumBicolor_JGI_v3_1-fasta-default,Sorghum bicolor JGI v3.1
+SetariaItalica_JGI_v2_2-fasta-default,Setaria italica JGI v2.2
+SolanumLycopersicum_ITAG_v2_3-fasta-default,Solanum lycopersicum ITAG 2.3
+SolanumLycopersicum_ITAG_v2_4-fasta-default,Solanum lycopersicum  Sol Genomics itag2.4
+SelaginellaMoellendorffii_JGI_v1_0-fasta-default,Selaginella moellendorffii  JGI v1.0
+SelaginellaMoellendorffii_NCBI-fasta-default,Selaginella moellendorffii NCBIr100
+SchrenkiellaParvula-fasta-default,Schrenkiella parvula  Thellungiella v2.0 (TpV84)
+SpirodelaPolyrhiza-fasta-default,Spirodela polyrhiza JGI v2.0
+SaccharumSpontaneum-fasta-default,Saccharum spontaneum v20190103
+SolanumTuberosum_ITAG-fasta-default,Solanum tuberosum ITAG 001
+SolanumTuberosum_JGI_v4_03-fasta-default,Solanum tuberosum  JGI v4.03
+TriticumAestivum_TGAC_v1-fasta-default,Triticum aestivum Ensembl Plants TGACv1
+TriticumAestivum_IWGSC_v1_1-fasta-default,Triticum aestivum IWGSC1.1
+TheobromaCacao_Phytozome_v1_1-fasta-default,Theobroma cacao D. Gilbert public gene set 8 Mar 2012 on assembly v1.1
+TheobromaCacao_RefSeq_v1_1-fasta-default,Theobroma cacao  RefSeq v1.1
+TarenayaHassleriana-fasta-default,Tarenaya hassleriana  RefSeq v1
+ThellungiellaParvula-fasta-default,Thellungiella parvula TpV84
+TrifoliumPratense-fasta-default,Trifolium pratense  JGI v2
+ThalassiosiraPseudonana-fasta-default,Thalassiosira pseudonana JGI 3.0
+TriticumTurgidum-fasta-default,Triticum turgidum Svevo v1.0
+UtriculariaGibba-fasta-default,Utricularia gibba  CoGe v4
+VolvoxCarteri-fasta-default,Volvox carteri JGI 2.0 (Phtyozome 10.2)
+VignaRadiata-fasta-default,Vigna radiata var. radiata  LIS v6
+VitisVinifera_genescope_v1-fasta-default,Vitis vinifera genescope v1
+VitisVinifera-fasta-default,Vitis vinifera  JGI 12xMarch2010
+ZoysiaJaponica-fasta-default,Zoysia japonica ssp. nagirizaki Zoysia Genome Database v1.1
+ZiziphusJujuba-fasta-default,Ziziphus jujuba  RefSeq v1.1
+ZeaMays_v5b_60-fasta-default,Zea mays B73 5b.60
+ZeaMays_AGP_v4_0-fasta-default,Zea mays B73 AGP v4.0
+ZeaMays_PH207-fasta-default,Zea mays PH207 v1.0
+ZosteraMarina-fasta-default,Zostera marina JGI v2.2
