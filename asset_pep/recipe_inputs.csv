@@ -130,3 +130,9 @@ ZeaMays_v5b_60-fasta-default,ZeaMays_v5b_60,default,fasta,ftp://ftp.psb.ugent.be
 ZeaMays_AGP_v4_0-fasta-default,ZeaMays_AGP_v4_0,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/zma.con.gz,files,2327045d2e888110a6c9eb48163c6ce5
 ZeaMays_PH207-fasta-default,ZeaMays_PH207,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_monocots_04_5/Genomes/zma-ph207.fasta.gz,files,074e34f6171479a72b74e6b0fef41f3c
 ZosteraMarina-fasta-default,ZosteraMarina,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_monocots_04_5/Genomes/zosmarina.fasta.gz,files,8e65ef0298192b422a5fe4448c76d9ce
+AureococcusAnophagefferens-fasta_txome-default,AureococcusAnophagefferens,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/aan.fasta.gz,files,54728f9cdb490b78987b470bb5ee1d9b
+Asterochloris-fasta_txome-default,Asterochloris,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_pico_03/Genomes/acg.fasta.gz,files,599ca9ea56e4cd969cbebb4002a12e8d
+ActinidiaChinensis-fasta_txome-default,ActinidiaChinensis,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/ach.con.gz,files,94bc40c7af4d6a5f53134a2316226a58
+AnanasComosus-fasta_txome-default,AnanasComosus,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_monocots_04_5/Genomes/aco.fasta.gz,files,5ce22ac6f93eb496e7beaabfbf5c18eb
+ArachisIpaensis-fasta_txome-default,ArachisIpaensis,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_04/Genomes/aip.con.gz,files,24fc5101f8840e0253d5a1e5f10b699f
+ArabidopsisLyrata-fasta_txome-default,ArabidopsisLyrata,default,fasta,ftp://ftp.psb.ugent.be/pub/plaza/plaza_public_dicots_03/Genomes/aly.con.gz,files,cf86ceeafa461fe9645c2b58d5e973ea
