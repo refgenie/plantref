@@ -2841,10 +2841,10 @@ genomes:
     genome_description: Picea abies  ConGenIE v1.0
 remotes:
   http:
-    prefix: http://awspds.refgenie.databio.org/rg.databio.org/
+    prefix: http://awspds.refgenie.databio.org/
     description: HTTP compatible path
   s3:
-    prefix: s3://awspds.refgenie.databio.org/rg.databio.org/
+    prefix: s3://awspds.refgenie.databio.org/
     description: S3 compatible path
 genome_archive_folder: /project/shefflab//deploy/plantref/genomes/archive
 genome_archive_config: refgenie_config_archive.yaml
