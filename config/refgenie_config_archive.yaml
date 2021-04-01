@@ -2839,12 +2839,6 @@ genomes:
         default_tag: default
     aliases: ['Picea_abies__ConGenIE_v1_0']
     genome_description: Picea abies  ConGenIE v1.0
-remotes:
-  http:
-    prefix: http://awspds.refgenie.databio.org/
-    description: HTTP compatible path
-  s3:
-    prefix: s3://awspds.refgenie.databio.org/
-    description: S3 compatible path
+remote_url_base: https://refgenie.s3.amazonaws.com
 genome_archive_folder: /project/shefflab//deploy/plantref/genomes/archive
 genome_archive_config: refgenie_config_archive.yaml
